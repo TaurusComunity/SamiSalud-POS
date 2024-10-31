@@ -79,7 +79,7 @@
             </div>
         </article>
 
-        <article id="novedades" class=" mx-5 my-8 ">
+        <!-- <article id="novedades" class=" mx-5 my-8 ">
             <h3 class="text-azul_oscuro text-[25px] font-medium">Novedades</h3>
 
             <div class="flex mt-5 bg-azul_oscuro rounded-lg justify-center gap-4 p-2">
@@ -90,5 +90,5 @@
                     <p>Aún no haz llenado el Manual de Calidad.</p>
                 </div>
             </div>
-        </article>
+        </article> -->
     </section>
