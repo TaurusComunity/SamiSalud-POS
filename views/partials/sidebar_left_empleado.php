@@ -14,6 +14,12 @@
                         <i class="fa-solid fa-house"></i> Inicio
                     </li>
                 </a>
+                <a href="reporteEmpleado">
+                    <li
+                        class="text-azul p-2 rounded mt-1 flex justify-star items-center gap-2 cursor-pointer font-medium hover:text-blanco hover:bg-azul transition-all">
+                        <i class="fa-solid fa-cash-register"></i> Reporte venta
+                    </li>
+                </a>
 
                 
 

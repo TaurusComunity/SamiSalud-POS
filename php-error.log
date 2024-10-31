@@ -3859,3 +3859,68 @@ Stack trace:
 [31-Oct-2024 12:15:22 America/Bogota] ===================================================
 [31-Oct-2024 12:15:22 America/Bogota] libs/app.php :: _Construct -> No hay controlador especificado.
 [31-Oct-2024 12:15:22 America/Bogota] ===================================================
+[31-Oct-2024 14:48:41 America/Bogota] Iniciando App
+[31-Oct-2024 14:48:41 America/Bogota] ===================================================
+[31-Oct-2024 14:48:41 America/Bogota] LoginModel:: Login->success
+[31-Oct-2024 14:48:41 America/Bogota] ===================================================
+[31-Oct-2024 14:48:41 America/Bogota] Login::authenticate() passed
+[31-Oct-2024 14:48:41 America/Bogota] SessionController::initialize(): user: sebas@gmail.com
+[31-Oct-2024 14:48:41 America/Bogota] SessionController::authorizeAccess(): role: 1
+[31-Oct-2024 14:48:41 America/Bogota] Iniciando App
+[31-Oct-2024 14:48:41 America/Bogota] ===================================================
+[31-Oct-2024 14:48:41 America/Bogota] sessionController::getUserSessionData(): usuario-sebas@gmail.com
+[31-Oct-2024 14:48:41 America/Bogota] sessionController::getUserSessionData(): rol-1
+[31-Oct-2024 14:48:41 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 14:48:41 America/Bogota] Empleado::construct -> Inicio del controlador Empleado
+[31-Oct-2024 14:48:41 America/Bogota] Empleado::render -> Cargando vista de indexEmpleado
+[31-Oct-2024 14:48:41 America/Bogota] sessionController::getUserSessionData(): usuario-sebas@gmail.com
+[31-Oct-2024 14:48:41 America/Bogota] sessionController::getUserSessionData(): rol-1
+[31-Oct-2024 14:48:41 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 14:50:18 America/Bogota] Iniciando App
+[31-Oct-2024 14:50:18 America/Bogota] ===================================================
+[31-Oct-2024 14:50:18 America/Bogota] sessionController::getUserSessionData(): usuario-sebas@gmail.com
+[31-Oct-2024 14:50:18 America/Bogota] sessionController::getUserSessionData(): rol-1
+[31-Oct-2024 14:50:18 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 14:50:18 America/Bogota] Empleado::construct -> Inicio del controlador Empleado
+[31-Oct-2024 14:50:18 America/Bogota] Empleado::render -> Cargando vista de indexEmpleado
+[31-Oct-2024 14:50:18 America/Bogota] sessionController::getUserSessionData(): usuario-sebas@gmail.com
+[31-Oct-2024 14:50:18 America/Bogota] sessionController::getUserSessionData(): rol-1
+[31-Oct-2024 14:50:18 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 14:50:21 America/Bogota] Iniciando App
+[31-Oct-2024 14:50:21 America/Bogota] ===================================================
+[31-Oct-2024 14:50:21 America/Bogota] sessionController::getUserSessionData(): usuario-sebas@gmail.com
+[31-Oct-2024 14:50:21 America/Bogota] sessionController::getUserSessionData(): rol-1
+[31-Oct-2024 14:50:21 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 14:50:21 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 14:50:21 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 14:51:25 America/Bogota] Iniciando App
+[31-Oct-2024 14:51:25 America/Bogota] ===================================================
+[31-Oct-2024 14:51:25 America/Bogota] sessionController::getUserSessionData(): usuario-sebas@gmail.com
+[31-Oct-2024 14:51:25 America/Bogota] sessionController::getUserSessionData(): rol-1
+[31-Oct-2024 14:51:25 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 14:51:25 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 14:51:25 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 14:51:33 America/Bogota] Iniciando App
+[31-Oct-2024 14:51:33 America/Bogota] ===================================================
+[31-Oct-2024 14:51:33 America/Bogota] sessionController::getUserSessionData(): usuario-sebas@gmail.com
+[31-Oct-2024 14:51:33 America/Bogota] sessionController::getUserSessionData(): rol-1
+[31-Oct-2024 14:51:33 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 14:51:33 America/Bogota] Empleado::construct -> Inicio del controlador Empleado
+[31-Oct-2024 14:51:33 America/Bogota] Empleado::render -> Cargando vista de indexEmpleado
+[31-Oct-2024 14:51:34 America/Bogota] sessionController::getUserSessionData(): usuario-sebas@gmail.com
+[31-Oct-2024 14:51:34 America/Bogota] sessionController::getUserSessionData(): rol-1
+[31-Oct-2024 14:51:34 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 14:51:35 America/Bogota] Iniciando App
+[31-Oct-2024 14:51:35 America/Bogota] ===================================================
+[31-Oct-2024 14:51:35 America/Bogota] sessionController::getUserSessionData(): usuario-sebas@gmail.com
+[31-Oct-2024 14:51:35 America/Bogota] sessionController::getUserSessionData(): rol-1
+[31-Oct-2024 14:51:35 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 14:51:35 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 14:51:35 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 14:51:45 America/Bogota] Iniciando App
+[31-Oct-2024 14:51:45 America/Bogota] ===================================================
+[31-Oct-2024 14:51:45 America/Bogota] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\SamiSalud-POS\clases\session.php on line 22
+[31-Oct-2024 14:51:45 America/Bogota] Iniciando App
+[31-Oct-2024 14:51:45 America/Bogota] ===================================================
+[31-Oct-2024 14:51:45 America/Bogota] libs/app.php :: _Construct -> No hay controlador especificado.
+[31-Oct-2024 14:51:45 America/Bogota] ===================================================
