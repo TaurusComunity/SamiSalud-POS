@@ -1,0 +1,1302 @@
+[30-Oct-2024 23:33:01 America/Bogota] Iniciando App
+[30-Oct-2024 23:33:01 America/Bogota] ===================================================
+[30-Oct-2024 23:33:01 America/Bogota] libs/app.php :: _Construct -> No hay controlador especificado.
+[30-Oct-2024 23:33:01 America/Bogota] ===================================================
+[30-Oct-2024 23:33:27 America/Bogota] Iniciando App
+[30-Oct-2024 23:33:27 America/Bogota] ===================================================
+[30-Oct-2024 23:33:27 America/Bogota] LoginModel:: Login->success
+[30-Oct-2024 23:33:27 America/Bogota] ===================================================
+[30-Oct-2024 23:33:27 America/Bogota] Login::authenticate() passed
+[30-Oct-2024 23:33:27 America/Bogota] SessionController::initialize(): user: Camilopineros85@gmail.com
+[30-Oct-2024 23:33:27 America/Bogota] SessionController::authorizeAccess(): role: 2
+[30-Oct-2024 23:33:27 America/Bogota] Iniciando App
+[30-Oct-2024 23:33:27 America/Bogota] ===================================================
+[30-Oct-2024 23:33:28 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:33:28 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:33:28 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:33:28 America/Bogota] Admin::construct -> Inicio del controlador Admin
+[30-Oct-2024 23:33:28 America/Bogota] Admin::render -> Cargando vista de indexAdmin
+[30-Oct-2024 23:33:28 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:33:28 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:33:28 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:33:37 America/Bogota] Iniciando App
+[30-Oct-2024 23:33:37 America/Bogota] ===================================================
+[30-Oct-2024 23:33:37 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:33:37 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:33:37 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:33:37 America/Bogota] actividad::construct -> Inicio del controlador actividad
+[30-Oct-2024 23:33:37 America/Bogota] actividad::render -> Cargando vista de indexactividad
+[30-Oct-2024 23:33:38 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:33:38 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:33:38 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:33:43 America/Bogota] Iniciando App
+[30-Oct-2024 23:33:43 America/Bogota] ===================================================
+[30-Oct-2024 23:33:44 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:33:44 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:33:44 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:33:44 America/Bogota] Categorias::construct -> Inicio del controlador categorias
+[30-Oct-2024 23:33:44 America/Bogota] Categorias::render -> Cargando vista de categorias
+[30-Oct-2024 23:33:44 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:33:44 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:33:44 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:33:48 America/Bogota] Iniciando App
+[30-Oct-2024 23:33:48 America/Bogota] ===================================================
+[30-Oct-2024 23:33:48 America/Bogota] Admin::construct -> Inicio del controlador dulceria
+[30-Oct-2024 23:33:48 America/Bogota] dulceria::render -> Cargando vista de dulceria
+[30-Oct-2024 23:33:49 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:33:49 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:33:49 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:33:58 America/Bogota] Iniciando App
+[30-Oct-2024 23:33:58 America/Bogota] ===================================================
+[30-Oct-2024 23:33:58 America/Bogota] infoID::construct -> Inicio del controlador infoID
+[30-Oct-2024 23:33:58 America/Bogota] infoID::show -> Cargando información del producto con código de barras: 7702993051795
+[30-Oct-2024 23:33:59 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:33:59 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:33:59 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:34:33 America/Bogota] Iniciando App
+[30-Oct-2024 23:34:33 America/Bogota] ===================================================
+[30-Oct-2024 23:34:33 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:34:33 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:34:33 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:34:33 America/Bogota] Iniciando App
+[30-Oct-2024 23:34:33 America/Bogota] ===================================================
+[30-Oct-2024 23:34:33 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:34:33 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:34:33 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:34:33 America/Bogota] Categorias::construct -> Inicio del controlador categorias
+[30-Oct-2024 23:34:33 America/Bogota] Categorias::render -> Cargando vista de categorias
+[30-Oct-2024 23:34:33 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:34:33 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:34:33 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:34:42 America/Bogota] Iniciando App
+[30-Oct-2024 23:34:42 America/Bogota] ===================================================
+[30-Oct-2024 23:34:42 America/Bogota] drogueria::construct -> Inicio del controlador drogueria
+[30-Oct-2024 23:34:42 America/Bogota] drogueria::render -> Cargando vista de drogueria
+[30-Oct-2024 23:34:43 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:34:43 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:34:43 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:34:47 America/Bogota] Iniciando App
+[30-Oct-2024 23:34:47 America/Bogota] ===================================================
+[30-Oct-2024 23:34:47 America/Bogota] infoID::construct -> Inicio del controlador infoID
+[30-Oct-2024 23:34:47 America/Bogota] infoID::show -> Cargando información del producto con código de barras: 7702870494325
+[30-Oct-2024 23:34:47 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:34:47 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:34:47 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:35:04 America/Bogota] Iniciando App
+[30-Oct-2024 23:35:04 America/Bogota] ===================================================
+[30-Oct-2024 23:35:04 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:35:04 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:35:04 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:35:04 America/Bogota] PHP Notice:  Only variables should be passed by reference in C:\xampp\htdocs\SamiSalud-POS\controllers\products.php on line 241
+[30-Oct-2024 23:35:04 America/Bogota] Actividad registrada: Se actualizó el producto con código de barras: 7702870494325. <br> Cambios: <br>Stock: 1 → 10
+[30-Oct-2024 23:35:04 America/Bogota] Iniciando App
+[30-Oct-2024 23:35:04 America/Bogota] ===================================================
+[30-Oct-2024 23:35:04 America/Bogota] infoID::construct -> Inicio del controlador infoID
+[30-Oct-2024 23:35:04 America/Bogota] infoID::show -> Cargando información del producto con código de barras: 7702870494325
+[30-Oct-2024 23:35:04 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:35:04 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:35:04 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:35:08 America/Bogota] Iniciando App
+[30-Oct-2024 23:35:08 America/Bogota] ===================================================
+[30-Oct-2024 23:35:08 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:35:08 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:35:08 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:35:08 America/Bogota] actividad::construct -> Inicio del controlador actividad
+[30-Oct-2024 23:35:08 America/Bogota] actividad::render -> Cargando vista de indexactividad
+[30-Oct-2024 23:35:08 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:35:08 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:35:08 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:35:19 America/Bogota] Iniciando App
+[30-Oct-2024 23:35:19 America/Bogota] ===================================================
+[30-Oct-2024 23:35:19 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:35:19 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:35:19 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:35:19 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[30-Oct-2024 23:35:19 America/Bogota] reporte::render -> Cargando vista de reporte
+[30-Oct-2024 23:35:26 America/Bogota] Iniciando App
+[30-Oct-2024 23:35:26 America/Bogota] ===================================================
+[30-Oct-2024 23:35:26 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:35:26 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:35:26 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:35:26 America/Bogota] actividad::construct -> Inicio del controlador actividad
+[30-Oct-2024 23:35:26 America/Bogota] actividad::render -> Cargando vista de indexactividad
+[30-Oct-2024 23:35:26 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:35:26 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:35:26 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:35:29 America/Bogota] Iniciando App
+[30-Oct-2024 23:35:29 America/Bogota] ===================================================
+[30-Oct-2024 23:35:29 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:35:29 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:35:29 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:35:29 America/Bogota] Admin::construct -> Inicio del controlador Admin
+[30-Oct-2024 23:35:29 America/Bogota] Admin::render -> Cargando vista de indexAdmin
+[30-Oct-2024 23:35:29 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:35:29 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:35:29 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:35:50 America/Bogota] Iniciando App
+[30-Oct-2024 23:35:50 America/Bogota] ===================================================
+[30-Oct-2024 23:35:50 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:35:50 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:35:50 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:35:50 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:35:50 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:35:50 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:46:50 America/Bogota] Iniciando App
+[30-Oct-2024 23:46:50 America/Bogota] ===================================================
+[30-Oct-2024 23:46:50 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:46:50 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:46:50 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:46:50 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:46:50 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:46:50 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:47:05 America/Bogota] Iniciando App
+[30-Oct-2024 23:47:05 America/Bogota] ===================================================
+[30-Oct-2024 23:47:05 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:47:05 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:47:05 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:47:05 America/Bogota] Categorias::construct -> Inicio del controlador categorias
+[30-Oct-2024 23:47:05 America/Bogota] Categorias::render -> Cargando vista de categorias
+[30-Oct-2024 23:47:05 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:47:05 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:47:05 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:47:11 America/Bogota] Iniciando App
+[30-Oct-2024 23:47:11 America/Bogota] ===================================================
+[30-Oct-2024 23:47:11 America/Bogota] Admin::construct -> Inicio del controlador pastillero
+[30-Oct-2024 23:47:11 America/Bogota] pastillero::render -> Cargando vista de pastillero
+[30-Oct-2024 23:47:11 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:47:11 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:47:11 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:47:30 America/Bogota] Iniciando App
+[30-Oct-2024 23:47:30 America/Bogota] ===================================================
+[30-Oct-2024 23:47:30 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:47:30 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:47:30 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:47:30 America/Bogota] Admin::construct -> Inicio del controlador Admin
+[30-Oct-2024 23:47:30 America/Bogota] Admin::render -> Cargando vista de indexAdmin
+[30-Oct-2024 23:47:30 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:47:30 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:47:30 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:47:36 America/Bogota] Iniciando App
+[30-Oct-2024 23:47:36 America/Bogota] ===================================================
+[30-Oct-2024 23:47:36 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:47:36 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:47:36 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:47:36 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:47:36 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:47:36 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:47:40 America/Bogota] Iniciando App
+[30-Oct-2024 23:47:40 America/Bogota] ===================================================
+[30-Oct-2024 23:47:40 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:47:40 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:47:40 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:47:42 America/Bogota] Iniciando App
+[30-Oct-2024 23:47:42 America/Bogota] ===================================================
+[30-Oct-2024 23:47:43 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:47:43 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:47:43 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:47:43 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:47:43 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:47:43 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:47:46 America/Bogota] Iniciando App
+[30-Oct-2024 23:47:46 America/Bogota] ===================================================
+[30-Oct-2024 23:47:46 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:47:46 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:47:46 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:48:26 America/Bogota] Iniciando App
+[30-Oct-2024 23:48:26 America/Bogota] ===================================================
+[30-Oct-2024 23:48:26 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:48:26 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:48:26 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:48:26 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:48:26 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:48:26 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:48:30 America/Bogota] Iniciando App
+[30-Oct-2024 23:48:30 America/Bogota] ===================================================
+[30-Oct-2024 23:48:30 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:48:30 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:48:30 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:49:24 America/Bogota] Iniciando App
+[30-Oct-2024 23:49:24 America/Bogota] ===================================================
+[30-Oct-2024 23:49:24 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:49:24 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:49:24 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:49:24 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:49:24 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:49:24 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:49:28 America/Bogota] Iniciando App
+[30-Oct-2024 23:49:28 America/Bogota] ===================================================
+[30-Oct-2024 23:49:28 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:49:28 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:49:28 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:49:31 America/Bogota] Iniciando App
+[30-Oct-2024 23:49:31 America/Bogota] ===================================================
+[30-Oct-2024 23:49:31 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:49:31 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:49:31 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:49:31 America/Bogota] Categorias::construct -> Inicio del controlador categorias
+[30-Oct-2024 23:49:31 America/Bogota] Categorias::render -> Cargando vista de categorias
+[30-Oct-2024 23:49:31 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:49:31 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:49:31 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:49:34 America/Bogota] Iniciando App
+[30-Oct-2024 23:49:34 America/Bogota] ===================================================
+[30-Oct-2024 23:49:34 America/Bogota] Admin::construct -> Inicio del controlador pastillero
+[30-Oct-2024 23:49:34 America/Bogota] pastillero::render -> Cargando vista de pastillero
+[30-Oct-2024 23:49:34 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:49:34 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:49:34 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:49:40 America/Bogota] Iniciando App
+[30-Oct-2024 23:49:40 America/Bogota] ===================================================
+[30-Oct-2024 23:49:41 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:49:41 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:49:41 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:49:41 America/Bogota] Admin::construct -> Inicio del controlador Admin
+[30-Oct-2024 23:49:41 America/Bogota] Admin::render -> Cargando vista de indexAdmin
+[30-Oct-2024 23:49:41 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:49:41 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:49:41 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:49:43 America/Bogota] Iniciando App
+[30-Oct-2024 23:49:43 America/Bogota] ===================================================
+[30-Oct-2024 23:49:43 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:49:43 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:49:43 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:49:43 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:49:43 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:49:43 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:49:49 America/Bogota] Iniciando App
+[30-Oct-2024 23:49:49 America/Bogota] ===================================================
+[30-Oct-2024 23:49:49 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:49:49 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:49:49 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:49:58 America/Bogota] Iniciando App
+[30-Oct-2024 23:49:58 America/Bogota] ===================================================
+[30-Oct-2024 23:49:58 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:49:58 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:49:58 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:49:58 America/Bogota] PHP Notice:  Only variables should be passed by reference in C:\xampp\htdocs\SamiSalud-POS\controllers\facturador.php on line 159
+[30-Oct-2024 23:49:58 America/Bogota] Actividad registrada: Venta realizada <br> Detalles: <br>Producto: DOMEBORO <br> Cantidad: 1 <br> Precio Total: 1500 <br>Total: 1500 <br> Monto Pagado: 2000 <br>Medio de Pago: Efectivo <br>
+[30-Oct-2024 23:50:00 America/Bogota] Iniciando App
+[30-Oct-2024 23:50:00 America/Bogota] ===================================================
+[30-Oct-2024 23:50:00 America/Bogota] libs/app.php:: Error: El controlador facturas no existe.
+[30-Oct-2024 23:50:00 America/Bogota] ===================================================
+[30-Oct-2024 23:50:00 America/Bogota] controller/errores -> Inicio de errores
+[30-Oct-2024 23:52:47 America/Bogota] Iniciando App
+[30-Oct-2024 23:52:47 America/Bogota] ===================================================
+[30-Oct-2024 23:52:47 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:52:47 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:52:47 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:52:47 America/Bogota] actividad::construct -> Inicio del controlador actividad
+[30-Oct-2024 23:52:47 America/Bogota] actividad::render -> Cargando vista de indexactividad
+[30-Oct-2024 23:52:47 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:52:47 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:52:47 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:53:02 America/Bogota] Iniciando App
+[30-Oct-2024 23:53:02 America/Bogota] ===================================================
+[30-Oct-2024 23:53:02 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:53:02 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:53:02 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:53:02 America/Bogota] Admin::construct -> Inicio del controlador Admin
+[30-Oct-2024 23:53:02 America/Bogota] Admin::render -> Cargando vista de indexAdmin
+[30-Oct-2024 23:53:03 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:53:03 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:53:03 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:53:05 America/Bogota] Iniciando App
+[30-Oct-2024 23:53:05 America/Bogota] ===================================================
+[30-Oct-2024 23:53:05 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:53:05 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:53:05 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:53:05 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:53:05 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:53:05 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:53:11 America/Bogota] Iniciando App
+[30-Oct-2024 23:53:11 America/Bogota] ===================================================
+[30-Oct-2024 23:53:11 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:53:11 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:53:11 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:53:30 America/Bogota] Iniciando App
+[30-Oct-2024 23:53:30 America/Bogota] ===================================================
+[30-Oct-2024 23:53:31 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:53:31 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:53:31 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:53:31 America/Bogota] PHP Notice:  Only variables should be passed by reference in C:\xampp\htdocs\SamiSalud-POS\controllers\facturador.php on line 159
+[30-Oct-2024 23:53:31 America/Bogota] Actividad registrada: Venta realizada <br> Detalles: <br>Producto: STODALINE <br> Cantidad: 1 <br> Precio Total: 55000 <br>Total: 55000 <br> Monto Pagado: 60000 <br>Medio de Pago: Efectivo <br>
+[30-Oct-2024 23:53:34 America/Bogota] Iniciando App
+[30-Oct-2024 23:53:34 America/Bogota] ===================================================
+[30-Oct-2024 23:53:34 America/Bogota] libs/app.php:: Error: El controlador facturas no existe.
+[30-Oct-2024 23:53:34 America/Bogota] ===================================================
+[30-Oct-2024 23:53:34 America/Bogota] controller/errores -> Inicio de errores
+[30-Oct-2024 23:57:29 America/Bogota] Iniciando App
+[30-Oct-2024 23:57:29 America/Bogota] ===================================================
+[30-Oct-2024 23:57:30 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:57:30 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:57:30 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:57:30 America/Bogota] actividad::construct -> Inicio del controlador actividad
+[30-Oct-2024 23:57:30 America/Bogota] actividad::render -> Cargando vista de indexactividad
+[30-Oct-2024 23:57:30 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:57:30 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:57:30 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:57:38 America/Bogota] Iniciando App
+[30-Oct-2024 23:57:38 America/Bogota] ===================================================
+[30-Oct-2024 23:57:38 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:57:38 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:57:38 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:57:38 America/Bogota] Admin::construct -> Inicio del controlador Admin
+[30-Oct-2024 23:57:38 America/Bogota] Admin::render -> Cargando vista de indexAdmin
+[30-Oct-2024 23:57:38 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:57:38 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:57:38 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:57:40 America/Bogota] Iniciando App
+[30-Oct-2024 23:57:40 America/Bogota] ===================================================
+[30-Oct-2024 23:57:40 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:57:40 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:57:40 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:57:40 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:57:40 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:57:40 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:57:44 America/Bogota] Iniciando App
+[30-Oct-2024 23:57:44 America/Bogota] ===================================================
+[30-Oct-2024 23:57:44 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:57:44 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:57:44 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:57:54 America/Bogota] Iniciando App
+[30-Oct-2024 23:57:54 America/Bogota] ===================================================
+[30-Oct-2024 23:57:54 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:57:54 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:57:54 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:57:54 America/Bogota] PHP Notice:  Only variables should be passed by reference in C:\xampp\htdocs\SamiSalud-POS\controllers\facturador.php on line 159
+[30-Oct-2024 23:57:54 America/Bogota] Actividad registrada: Venta realizada <br> Detalles: <br>Producto: STODALINE <br> Cantidad: 1 <br> Precio Total: 55000 <br>Total: 55000 <br> Monto Pagado: 60000 <br>Medio de Pago: Efectivo <br>
+[30-Oct-2024 23:57:56 America/Bogota] Iniciando App
+[30-Oct-2024 23:57:56 America/Bogota] ===================================================
+[30-Oct-2024 23:57:56 America/Bogota] libs/app.php:: Error: El controlador facturas no existe.
+[30-Oct-2024 23:57:56 America/Bogota] ===================================================
+[30-Oct-2024 23:57:56 America/Bogota] controller/errores -> Inicio de errores
+[30-Oct-2024 23:59:57 America/Bogota] Iniciando App
+[30-Oct-2024 23:59:57 America/Bogota] ===================================================
+[30-Oct-2024 23:59:57 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:59:57 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:59:57 America/Bogota] sessionController::getUserSessionData(): local-2
+[30-Oct-2024 23:59:57 America/Bogota] actividad::construct -> Inicio del controlador actividad
+[30-Oct-2024 23:59:57 America/Bogota] actividad::render -> Cargando vista de indexactividad
+[30-Oct-2024 23:59:57 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[30-Oct-2024 23:59:57 America/Bogota] sessionController::getUserSessionData(): rol-2
+[30-Oct-2024 23:59:57 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:00:18 America/Bogota] Iniciando App
+[31-Oct-2024 00:00:18 America/Bogota] ===================================================
+[31-Oct-2024 00:00:18 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:00:18 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:00:18 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:00:18 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 00:00:18 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 00:03:58 America/Bogota] Iniciando App
+[31-Oct-2024 00:03:58 America/Bogota] ===================================================
+[31-Oct-2024 00:03:58 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:03:58 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:03:58 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:03:58 America/Bogota] actividad::construct -> Inicio del controlador actividad
+[31-Oct-2024 00:03:58 America/Bogota] actividad::render -> Cargando vista de indexactividad
+[31-Oct-2024 00:03:58 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:03:58 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:03:58 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:04:06 America/Bogota] Iniciando App
+[31-Oct-2024 00:04:06 America/Bogota] ===================================================
+[31-Oct-2024 00:04:06 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:04:06 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:04:06 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:04:06 America/Bogota] Admin::construct -> Inicio del controlador Admin
+[31-Oct-2024 00:04:06 America/Bogota] Admin::render -> Cargando vista de indexAdmin
+[31-Oct-2024 00:04:06 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:04:06 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:04:06 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:04:10 America/Bogota] Iniciando App
+[31-Oct-2024 00:04:10 America/Bogota] ===================================================
+[31-Oct-2024 00:04:10 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:04:10 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:04:10 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:04:10 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:04:10 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:04:10 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:04:18 America/Bogota] Iniciando App
+[31-Oct-2024 00:04:18 America/Bogota] ===================================================
+[31-Oct-2024 00:04:18 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:04:18 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:04:18 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:05:11 America/Bogota] Iniciando App
+[31-Oct-2024 00:05:11 America/Bogota] ===================================================
+[31-Oct-2024 00:05:11 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:05:11 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:05:11 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:05:11 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:05:11 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:05:11 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:06:13 America/Bogota] Iniciando App
+[31-Oct-2024 00:06:13 America/Bogota] ===================================================
+[31-Oct-2024 00:06:14 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:06:14 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:06:14 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:06:14 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:06:14 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:06:14 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:06:49 America/Bogota] Iniciando App
+[31-Oct-2024 00:06:49 America/Bogota] ===================================================
+[31-Oct-2024 00:06:49 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:06:49 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:06:49 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:06:49 America/Bogota] actividad::construct -> Inicio del controlador actividad
+[31-Oct-2024 00:06:49 America/Bogota] actividad::render -> Cargando vista de indexactividad
+[31-Oct-2024 00:06:49 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:06:49 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:06:49 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:07:02 America/Bogota] Iniciando App
+[31-Oct-2024 00:07:02 America/Bogota] ===================================================
+[31-Oct-2024 00:07:02 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:07:02 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:07:02 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:07:02 America/Bogota] Admin::construct -> Inicio del controlador Admin
+[31-Oct-2024 00:07:02 America/Bogota] Admin::render -> Cargando vista de indexAdmin
+[31-Oct-2024 00:07:02 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:07:02 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:07:02 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:07:04 America/Bogota] Iniciando App
+[31-Oct-2024 00:07:04 America/Bogota] ===================================================
+[31-Oct-2024 00:07:04 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:07:04 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:07:04 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:07:04 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:07:04 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:07:04 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:07:08 America/Bogota] Iniciando App
+[31-Oct-2024 00:07:08 America/Bogota] ===================================================
+[31-Oct-2024 00:07:08 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:07:08 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:07:08 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:07:18 America/Bogota] Iniciando App
+[31-Oct-2024 00:07:18 America/Bogota] ===================================================
+[31-Oct-2024 00:07:18 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:07:18 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:07:18 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:07:18 America/Bogota] PHP Notice:  Only variables should be passed by reference in C:\xampp\htdocs\SamiSalud-POS\controllers\facturador.php on line 159
+[31-Oct-2024 00:07:18 America/Bogota] Actividad registrada: Venta realizada <br> Detalles: <br>Producto: NOSOTRAS TOALLAS  NORMAL SIN ALAS X10 <br> Cantidad: 1 <br> Precio Total: 4500 <br>Total: 4500 <br> Monto Pagado: 5000 <br>Medio de Pago: Efectivo <br>
+[31-Oct-2024 00:07:20 America/Bogota] Iniciando App
+[31-Oct-2024 00:07:20 America/Bogota] ===================================================
+[31-Oct-2024 00:07:20 America/Bogota] libs/app.php:: Error: El controlador facturas no existe.
+[31-Oct-2024 00:07:20 America/Bogota] ===================================================
+[31-Oct-2024 00:07:20 America/Bogota] controller/errores -> Inicio de errores
+[31-Oct-2024 00:12:54 America/Bogota] Iniciando App
+[31-Oct-2024 00:12:54 America/Bogota] ===================================================
+[31-Oct-2024 00:12:54 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:12:54 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:12:54 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 00:12:54 America/Bogota] Admin::construct -> Inicio del controlador Admin
+[31-Oct-2024 00:12:54 America/Bogota] Admin::render -> Cargando vista de indexAdmin
+[31-Oct-2024 00:12:54 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 00:12:54 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 00:12:54 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:44:10 America/Bogota] Iniciando App
+[31-Oct-2024 08:44:10 America/Bogota] ===================================================
+[31-Oct-2024 08:44:10 America/Bogota] libs/app.php :: _Construct -> No hay controlador especificado.
+[31-Oct-2024 08:44:10 America/Bogota] ===================================================
+[31-Oct-2024 08:44:17 America/Bogota] Iniciando App
+[31-Oct-2024 08:44:17 America/Bogota] ===================================================
+[31-Oct-2024 08:44:17 America/Bogota] LoginModel:: Login->success
+[31-Oct-2024 08:44:17 America/Bogota] ===================================================
+[31-Oct-2024 08:44:17 America/Bogota] Login::authenticate() passed
+[31-Oct-2024 08:44:17 America/Bogota] SessionController::initialize(): user: Camilopineros85@gmail.com
+[31-Oct-2024 08:44:17 America/Bogota] SessionController::authorizeAccess(): role: 2
+[31-Oct-2024 08:44:17 America/Bogota] Iniciando App
+[31-Oct-2024 08:44:17 America/Bogota] ===================================================
+[31-Oct-2024 08:44:17 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:44:17 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:44:17 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:44:17 America/Bogota] Admin::construct -> Inicio del controlador Admin
+[31-Oct-2024 08:44:17 America/Bogota] Admin::render -> Cargando vista de indexAdmin
+[31-Oct-2024 08:44:18 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:44:18 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:44:18 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:48:39 America/Bogota] Iniciando App
+[31-Oct-2024 08:48:39 America/Bogota] ===================================================
+[31-Oct-2024 08:48:39 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:48:39 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:48:39 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:48:39 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 08:48:39 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 08:49:19 America/Bogota] Iniciando App
+[31-Oct-2024 08:49:19 America/Bogota] ===================================================
+[31-Oct-2024 08:49:19 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:49:19 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:49:19 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:49:19 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 08:49:19 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 08:49:46 America/Bogota] Iniciando App
+[31-Oct-2024 08:49:46 America/Bogota] ===================================================
+[31-Oct-2024 08:49:47 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:49:47 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:49:47 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:49:47 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 08:49:47 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 08:51:25 America/Bogota] Iniciando App
+[31-Oct-2024 08:51:25 America/Bogota] ===================================================
+[31-Oct-2024 08:51:25 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:51:25 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:51:25 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:51:25 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 08:51:25 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 08:51:28 America/Bogota] Iniciando App
+[31-Oct-2024 08:51:28 America/Bogota] ===================================================
+[31-Oct-2024 08:51:28 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:51:28 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:51:28 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:51:28 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 08:51:28 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 08:51:51 America/Bogota] Iniciando App
+[31-Oct-2024 08:51:51 America/Bogota] ===================================================
+[31-Oct-2024 08:51:51 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:51:51 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:51:51 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:51:51 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 08:51:51 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 08:56:45 America/Bogota] Iniciando App
+[31-Oct-2024 08:56:45 America/Bogota] ===================================================
+[31-Oct-2024 08:56:45 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:56:45 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:56:45 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:56:45 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 08:56:45 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 08:57:14 America/Bogota] Iniciando App
+[31-Oct-2024 08:57:14 America/Bogota] ===================================================
+[31-Oct-2024 08:57:15 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:57:15 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:57:15 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:57:15 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 08:57:15 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 08:57:24 America/Bogota] Iniciando App
+[31-Oct-2024 08:57:24 America/Bogota] ===================================================
+[31-Oct-2024 08:57:24 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:57:24 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:57:24 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:57:24 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 08:57:24 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 08:58:11 America/Bogota] Iniciando App
+[31-Oct-2024 08:58:11 America/Bogota] ===================================================
+[31-Oct-2024 08:58:11 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:58:11 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:58:11 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:58:11 America/Bogota] actividad::construct -> Inicio del controlador actividad
+[31-Oct-2024 08:58:11 America/Bogota] actividad::render -> Cargando vista de indexactividad
+[31-Oct-2024 08:58:11 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:58:11 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:58:11 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:58:22 America/Bogota] Iniciando App
+[31-Oct-2024 08:58:22 America/Bogota] ===================================================
+[31-Oct-2024 08:58:22 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:58:22 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:58:22 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:58:22 America/Bogota] Admin::construct -> Inicio del controlador Admin
+[31-Oct-2024 08:58:22 America/Bogota] Admin::render -> Cargando vista de indexAdmin
+[31-Oct-2024 08:58:22 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:58:22 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:58:22 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:58:24 America/Bogota] Iniciando App
+[31-Oct-2024 08:58:24 America/Bogota] ===================================================
+[31-Oct-2024 08:58:24 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:58:24 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:58:24 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:58:24 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:58:24 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:58:24 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:58:27 America/Bogota] Iniciando App
+[31-Oct-2024 08:58:27 America/Bogota] ===================================================
+[31-Oct-2024 08:58:27 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:58:27 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:58:27 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:58:40 America/Bogota] Iniciando App
+[31-Oct-2024 08:58:40 America/Bogota] ===================================================
+[31-Oct-2024 08:58:40 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:58:40 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:58:40 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:58:40 America/Bogota] PHP Notice:  Only variables should be passed by reference in C:\xampp\htdocs\SamiSalud-POS\controllers\facturador.php on line 159
+[31-Oct-2024 08:58:40 America/Bogota] Actividad registrada: Venta realizada <br> Detalles: <br>Producto: STODALINE <br> Cantidad: 1 <br> Precio Total: 55000 <br>Total: 55000 <br> Monto Pagado: 55000 <br>Medio de Pago: Nequi <br>
+[31-Oct-2024 08:58:42 America/Bogota] Iniciando App
+[31-Oct-2024 08:58:42 America/Bogota] ===================================================
+[31-Oct-2024 08:58:42 America/Bogota] libs/app.php:: Error: El controlador facturas no existe.
+[31-Oct-2024 08:58:42 America/Bogota] ===================================================
+[31-Oct-2024 08:58:42 America/Bogota] controller/errores -> Inicio de errores
+[31-Oct-2024 08:58:49 America/Bogota] Iniciando App
+[31-Oct-2024 08:58:49 America/Bogota] ===================================================
+[31-Oct-2024 08:58:49 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:58:49 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:58:49 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:58:53 America/Bogota] Iniciando App
+[31-Oct-2024 08:58:53 America/Bogota] ===================================================
+[31-Oct-2024 08:58:53 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:58:53 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:58:53 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:58:53 America/Bogota] PHP Notice:  Only variables should be passed by reference in C:\xampp\htdocs\SamiSalud-POS\controllers\facturador.php on line 159
+[31-Oct-2024 08:58:53 America/Bogota] Actividad registrada: Venta realizada <br> Detalles: <br>Producto: STODALINE <br> Cantidad: 1 <br> Precio Total: 55000 <br>Total: 55000 <br> Monto Pagado: 55000 <br>Medio de Pago: Daviplata <br>
+[31-Oct-2024 08:58:54 America/Bogota] Iniciando App
+[31-Oct-2024 08:58:54 America/Bogota] ===================================================
+[31-Oct-2024 08:58:54 America/Bogota] libs/app.php:: Error: El controlador facturas no existe.
+[31-Oct-2024 08:58:54 America/Bogota] ===================================================
+[31-Oct-2024 08:58:54 America/Bogota] controller/errores -> Inicio de errores
+[31-Oct-2024 08:58:58 America/Bogota] Iniciando App
+[31-Oct-2024 08:58:58 America/Bogota] ===================================================
+[31-Oct-2024 08:58:58 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:58:58 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:58:58 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:59:02 America/Bogota] Iniciando App
+[31-Oct-2024 08:59:02 America/Bogota] ===================================================
+[31-Oct-2024 08:59:02 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:59:02 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:59:02 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:59:02 America/Bogota] PHP Notice:  Only variables should be passed by reference in C:\xampp\htdocs\SamiSalud-POS\controllers\facturador.php on line 159
+[31-Oct-2024 08:59:02 America/Bogota] Actividad registrada: Venta realizada <br> Detalles: <br>Producto: STODALINE <br> Cantidad: 1 <br> Precio Total: 55000 <br>Total: 55000 <br> Monto Pagado: 55000 <br>Medio de Pago: Tarjeta <br>
+[31-Oct-2024 08:59:03 America/Bogota] Iniciando App
+[31-Oct-2024 08:59:03 America/Bogota] ===================================================
+[31-Oct-2024 08:59:03 America/Bogota] libs/app.php:: Error: El controlador facturas no existe.
+[31-Oct-2024 08:59:03 America/Bogota] ===================================================
+[31-Oct-2024 08:59:03 America/Bogota] controller/errores -> Inicio de errores
+[31-Oct-2024 08:59:05 America/Bogota] Iniciando App
+[31-Oct-2024 08:59:05 America/Bogota] ===================================================
+[31-Oct-2024 08:59:05 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:59:05 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:59:05 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:59:05 America/Bogota] actividad::construct -> Inicio del controlador actividad
+[31-Oct-2024 08:59:05 America/Bogota] actividad::render -> Cargando vista de indexactividad
+[31-Oct-2024 08:59:05 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:59:05 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:59:05 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:59:08 America/Bogota] Iniciando App
+[31-Oct-2024 08:59:08 America/Bogota] ===================================================
+[31-Oct-2024 08:59:09 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 08:59:09 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 08:59:09 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 08:59:09 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 08:59:09 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:00:05 America/Bogota] Iniciando App
+[31-Oct-2024 09:00:05 America/Bogota] ===================================================
+[31-Oct-2024 09:00:05 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:00:05 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:00:05 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:00:05 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:00:05 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:00:07 America/Bogota] Iniciando App
+[31-Oct-2024 09:00:07 America/Bogota] ===================================================
+[31-Oct-2024 09:00:07 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:00:07 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:00:07 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:00:07 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:00:07 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:00:12 America/Bogota] Iniciando App
+[31-Oct-2024 09:00:12 America/Bogota] ===================================================
+[31-Oct-2024 09:00:13 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:00:13 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:00:13 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:00:13 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:00:13 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:00:14 America/Bogota] Iniciando App
+[31-Oct-2024 09:00:14 America/Bogota] ===================================================
+[31-Oct-2024 09:00:14 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:00:14 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:00:14 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:00:14 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:00:14 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:00:15 America/Bogota] Iniciando App
+[31-Oct-2024 09:00:15 America/Bogota] ===================================================
+[31-Oct-2024 09:00:15 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:00:15 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:00:15 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:00:15 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:00:15 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:00:17 America/Bogota] Iniciando App
+[31-Oct-2024 09:00:17 America/Bogota] ===================================================
+[31-Oct-2024 09:00:17 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:00:17 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:00:17 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:00:17 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:00:17 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:00:18 America/Bogota] Iniciando App
+[31-Oct-2024 09:00:18 America/Bogota] ===================================================
+[31-Oct-2024 09:00:19 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:00:19 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:00:19 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:00:19 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:00:19 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:00:42 America/Bogota] Iniciando App
+[31-Oct-2024 09:00:42 America/Bogota] ===================================================
+[31-Oct-2024 09:00:42 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:00:42 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:00:42 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:00:42 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:00:42 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:00:43 America/Bogota] Iniciando App
+[31-Oct-2024 09:00:43 America/Bogota] ===================================================
+[31-Oct-2024 09:00:43 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:00:43 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:00:43 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:00:43 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:00:43 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:00:44 America/Bogota] Iniciando App
+[31-Oct-2024 09:00:44 America/Bogota] ===================================================
+[31-Oct-2024 09:00:44 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:00:44 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:00:44 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:00:44 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:00:44 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:01:26 America/Bogota] Iniciando App
+[31-Oct-2024 09:01:26 America/Bogota] ===================================================
+[31-Oct-2024 09:01:26 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:01:26 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:01:26 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:01:26 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:01:26 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:01:35 America/Bogota] Iniciando App
+[31-Oct-2024 09:01:35 America/Bogota] ===================================================
+[31-Oct-2024 09:01:35 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:01:35 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:01:35 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:01:35 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:01:35 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:01:37 America/Bogota] Iniciando App
+[31-Oct-2024 09:01:37 America/Bogota] ===================================================
+[31-Oct-2024 09:01:37 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:01:37 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:01:37 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:01:37 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:01:37 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:01:49 America/Bogota] Iniciando App
+[31-Oct-2024 09:01:49 America/Bogota] ===================================================
+[31-Oct-2024 09:01:49 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:01:49 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:01:49 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:01:49 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:01:49 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:01:51 America/Bogota] Iniciando App
+[31-Oct-2024 09:01:51 America/Bogota] ===================================================
+[31-Oct-2024 09:01:51 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:01:51 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:01:51 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:01:51 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:01:51 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:03:07 America/Bogota] Iniciando App
+[31-Oct-2024 09:03:07 America/Bogota] ===================================================
+[31-Oct-2024 09:03:07 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:03:07 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:03:07 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:03:07 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:03:07 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:04:42 America/Bogota] Iniciando App
+[31-Oct-2024 09:04:42 America/Bogota] ===================================================
+[31-Oct-2024 09:04:42 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:04:42 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:04:42 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:04:42 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:04:42 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:04:44 America/Bogota] Iniciando App
+[31-Oct-2024 09:04:44 America/Bogota] ===================================================
+[31-Oct-2024 09:04:44 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:04:44 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:04:44 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:04:44 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:04:44 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:04:53 America/Bogota] Iniciando App
+[31-Oct-2024 09:04:53 America/Bogota] ===================================================
+[31-Oct-2024 09:04:53 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:04:53 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:04:53 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:04:53 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:04:53 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:04:55 America/Bogota] Iniciando App
+[31-Oct-2024 09:04:55 America/Bogota] ===================================================
+[31-Oct-2024 09:04:55 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:04:55 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:04:55 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:04:55 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:04:55 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:05:11 America/Bogota] Iniciando App
+[31-Oct-2024 09:05:11 America/Bogota] ===================================================
+[31-Oct-2024 09:05:11 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:05:11 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:05:11 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:05:11 America/Bogota] Admin::construct -> Inicio del controlador Admin
+[31-Oct-2024 09:05:11 America/Bogota] Admin::render -> Cargando vista de indexAdmin
+[31-Oct-2024 09:05:11 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:05:11 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:05:11 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:05:13 America/Bogota] Iniciando App
+[31-Oct-2024 09:05:13 America/Bogota] ===================================================
+[31-Oct-2024 09:05:13 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:05:13 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:05:13 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:05:13 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:05:13 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:05:13 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:05:20 America/Bogota] Iniciando App
+[31-Oct-2024 09:05:20 America/Bogota] ===================================================
+[31-Oct-2024 09:05:20 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:05:20 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:05:20 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:05:20 America/Bogota] Admin::construct -> Inicio del controlador Admin
+[31-Oct-2024 09:05:20 America/Bogota] Admin::render -> Cargando vista de indexAdmin
+[31-Oct-2024 09:05:20 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:05:20 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:05:20 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:05:23 America/Bogota] Iniciando App
+[31-Oct-2024 09:05:23 America/Bogota] ===================================================
+[31-Oct-2024 09:05:23 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:05:23 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:05:23 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:05:23 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:05:23 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:05:46 America/Bogota] Iniciando App
+[31-Oct-2024 09:05:46 America/Bogota] ===================================================
+[31-Oct-2024 09:05:46 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:05:46 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:05:46 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:05:46 America/Bogota] Categorias::construct -> Inicio del controlador categorias
+[31-Oct-2024 09:05:46 America/Bogota] Categorias::render -> Cargando vista de categorias
+[31-Oct-2024 09:05:46 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:05:46 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:05:46 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:05:49 America/Bogota] Iniciando App
+[31-Oct-2024 09:05:49 America/Bogota] ===================================================
+[31-Oct-2024 09:05:49 America/Bogota] populares::construct -> Inicio del controlador populares
+[31-Oct-2024 09:05:49 America/Bogota] populares::render -> Cargando vista de drogueria
+[31-Oct-2024 09:05:50 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:05:50 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:05:50 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:06:00 America/Bogota] Iniciando App
+[31-Oct-2024 09:06:00 America/Bogota] ===================================================
+[31-Oct-2024 09:06:00 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:06:00 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:06:00 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:06:00 America/Bogota] Admin::construct -> Inicio del controlador Admin
+[31-Oct-2024 09:06:00 America/Bogota] Admin::render -> Cargando vista de indexAdmin
+[31-Oct-2024 09:06:00 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:06:00 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:06:00 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:06:02 America/Bogota] Iniciando App
+[31-Oct-2024 09:06:02 America/Bogota] ===================================================
+[31-Oct-2024 09:06:02 America/Bogota] Iniciando App
+[31-Oct-2024 09:06:02 America/Bogota] ===================================================
+[31-Oct-2024 09:06:02 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:06:02 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:06:02 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:06:02 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:06:02 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:06:02 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:06:02 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:06:02 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:06:02 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:06:02 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:06:02 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:06:02 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:06:05 America/Bogota] Iniciando App
+[31-Oct-2024 09:06:05 America/Bogota] ===================================================
+[31-Oct-2024 09:06:06 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:06:06 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:06:06 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:06:19 America/Bogota] Iniciando App
+[31-Oct-2024 09:06:19 America/Bogota] ===================================================
+[31-Oct-2024 09:06:19 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:06:19 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:06:19 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:06:19 America/Bogota] PHP Notice:  Only variables should be passed by reference in C:\xampp\htdocs\SamiSalud-POS\controllers\facturador.php on line 159
+[31-Oct-2024 09:06:19 America/Bogota] Actividad registrada: Venta realizada <br> Detalles: <br>Producto: BABY PUCHINI SHAMPOO <br> Cantidad: 1 <br> Precio Total: 17000 <br>Total: 17000 <br> Monto Pagado: 17000 <br>Medio de Pago: Efectivo <br>
+[31-Oct-2024 09:06:20 America/Bogota] Iniciando App
+[31-Oct-2024 09:06:20 America/Bogota] ===================================================
+[31-Oct-2024 09:06:20 America/Bogota] libs/app.php:: Error: El controlador facturas no existe.
+[31-Oct-2024 09:06:20 America/Bogota] ===================================================
+[31-Oct-2024 09:06:20 America/Bogota] controller/errores -> Inicio de errores
+[31-Oct-2024 09:06:22 America/Bogota] Iniciando App
+[31-Oct-2024 09:06:22 America/Bogota] ===================================================
+[31-Oct-2024 09:06:22 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:06:22 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:06:22 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:06:22 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:06:22 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:29:23 America/Bogota] Iniciando App
+[31-Oct-2024 09:29:23 America/Bogota] ===================================================
+[31-Oct-2024 09:29:24 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:29:24 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:29:24 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:29:24 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:29:24 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:30:17 America/Bogota] Iniciando App
+[31-Oct-2024 09:30:17 America/Bogota] ===================================================
+[31-Oct-2024 09:30:17 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:30:17 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:30:17 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:30:17 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:30:17 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:30:19 America/Bogota] Iniciando App
+[31-Oct-2024 09:30:19 America/Bogota] ===================================================
+[31-Oct-2024 09:30:19 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:30:19 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:30:19 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:30:19 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:30:19 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:30:49 America/Bogota] Iniciando App
+[31-Oct-2024 09:30:49 America/Bogota] ===================================================
+[31-Oct-2024 09:30:49 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:30:49 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:30:49 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:30:49 America/Bogota] Admin::construct -> Inicio del controlador Admin
+[31-Oct-2024 09:30:49 America/Bogota] Admin::render -> Cargando vista de indexAdmin
+[31-Oct-2024 09:30:49 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:30:49 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:30:49 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:30:52 America/Bogota] Iniciando App
+[31-Oct-2024 09:30:52 America/Bogota] ===================================================
+[31-Oct-2024 09:30:52 America/Bogota] Iniciando App
+[31-Oct-2024 09:30:52 America/Bogota] ===================================================
+[31-Oct-2024 09:30:52 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:30:52 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:30:52 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:30:52 America/Bogota] Categorias::construct -> Inicio del controlador categorias
+[31-Oct-2024 09:30:52 America/Bogota] Categorias::render -> Cargando vista de categorias
+[31-Oct-2024 09:30:52 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:30:52 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:30:52 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:30:52 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:30:52 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:30:52 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:30:52 America/Bogota] Categorias::construct -> Inicio del controlador categorias
+[31-Oct-2024 09:30:52 America/Bogota] Categorias::render -> Cargando vista de categorias
+[31-Oct-2024 09:30:52 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:30:52 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:30:52 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:31:10 America/Bogota] Iniciando App
+[31-Oct-2024 09:31:10 America/Bogota] ===================================================
+[31-Oct-2024 09:31:10 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:31:10 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:31:10 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:31:10 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:31:10 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:31:16 America/Bogota] Iniciando App
+[31-Oct-2024 09:31:16 America/Bogota] ===================================================
+[31-Oct-2024 09:31:16 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:31:16 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:31:16 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:31:16 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:31:16 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:31:18 America/Bogota] Iniciando App
+[31-Oct-2024 09:31:18 America/Bogota] ===================================================
+[31-Oct-2024 09:31:18 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:31:18 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:31:18 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:31:18 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:31:18 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:31:23 America/Bogota] Iniciando App
+[31-Oct-2024 09:31:23 America/Bogota] ===================================================
+[31-Oct-2024 09:31:23 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:31:23 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:31:23 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:31:23 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:31:23 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:31:24 America/Bogota] Iniciando App
+[31-Oct-2024 09:31:24 America/Bogota] ===================================================
+[31-Oct-2024 09:31:24 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:31:24 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:31:24 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:31:24 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:31:24 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:32:40 America/Bogota] Iniciando App
+[31-Oct-2024 09:32:40 America/Bogota] ===================================================
+[31-Oct-2024 09:32:40 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:32:40 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:32:40 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:32:40 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:32:40 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:32:55 America/Bogota] Iniciando App
+[31-Oct-2024 09:32:55 America/Bogota] ===================================================
+[31-Oct-2024 09:32:55 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:32:55 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:32:55 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:32:55 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:32:55 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:33:29 America/Bogota] Iniciando App
+[31-Oct-2024 09:33:29 America/Bogota] ===================================================
+[31-Oct-2024 09:33:29 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:33:29 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:33:29 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:33:29 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:33:29 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:33:30 America/Bogota] Iniciando App
+[31-Oct-2024 09:33:30 America/Bogota] ===================================================
+[31-Oct-2024 09:33:30 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:33:30 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:33:30 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:33:30 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:33:30 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:34:13 America/Bogota] Iniciando App
+[31-Oct-2024 09:34:13 America/Bogota] ===================================================
+[31-Oct-2024 09:34:14 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:34:14 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:34:14 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:34:14 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:34:14 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:34:37 America/Bogota] Iniciando App
+[31-Oct-2024 09:34:37 America/Bogota] ===================================================
+[31-Oct-2024 09:34:37 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:34:37 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:34:37 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:34:37 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:34:37 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:34:51 America/Bogota] Iniciando App
+[31-Oct-2024 09:34:51 America/Bogota] ===================================================
+[31-Oct-2024 09:34:51 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:34:51 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:34:51 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:34:51 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:34:51 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:35:04 America/Bogota] Iniciando App
+[31-Oct-2024 09:35:04 America/Bogota] ===================================================
+[31-Oct-2024 09:35:04 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:35:04 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:35:04 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:35:04 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:35:04 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:35:05 America/Bogota] Iniciando App
+[31-Oct-2024 09:35:05 America/Bogota] ===================================================
+[31-Oct-2024 09:35:05 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:35:05 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:35:05 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:35:05 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:35:05 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:35:06 America/Bogota] Iniciando App
+[31-Oct-2024 09:35:06 America/Bogota] ===================================================
+[31-Oct-2024 09:35:06 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:35:06 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:35:06 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:35:06 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:35:06 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:35:07 America/Bogota] Iniciando App
+[31-Oct-2024 09:35:07 America/Bogota] ===================================================
+[31-Oct-2024 09:35:07 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:35:07 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:35:07 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:35:07 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:35:07 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:35:26 America/Bogota] Iniciando App
+[31-Oct-2024 09:35:26 America/Bogota] ===================================================
+[31-Oct-2024 09:35:26 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:35:26 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:35:26 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:35:26 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:35:26 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:35:29 America/Bogota] Iniciando App
+[31-Oct-2024 09:35:29 America/Bogota] ===================================================
+[31-Oct-2024 09:35:29 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:35:29 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:35:29 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:35:29 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:35:29 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:36:01 America/Bogota] Iniciando App
+[31-Oct-2024 09:36:01 America/Bogota] ===================================================
+[31-Oct-2024 09:36:01 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:36:01 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:36:01 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:36:01 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:36:01 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:36:27 America/Bogota] Iniciando App
+[31-Oct-2024 09:36:27 America/Bogota] ===================================================
+[31-Oct-2024 09:36:27 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:36:27 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:36:27 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:36:27 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:36:27 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:38:13 America/Bogota] Iniciando App
+[31-Oct-2024 09:38:13 America/Bogota] ===================================================
+[31-Oct-2024 09:38:13 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:38:13 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:38:13 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:38:13 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:38:13 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:38:14 America/Bogota] Iniciando App
+[31-Oct-2024 09:38:14 America/Bogota] ===================================================
+[31-Oct-2024 09:38:15 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:38:15 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:38:15 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:38:15 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:38:15 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:38:30 America/Bogota] Iniciando App
+[31-Oct-2024 09:38:30 America/Bogota] ===================================================
+[31-Oct-2024 09:38:30 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:38:30 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:38:30 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:38:30 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:38:30 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:38:57 America/Bogota] Iniciando App
+[31-Oct-2024 09:38:57 America/Bogota] ===================================================
+[31-Oct-2024 09:38:57 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:38:57 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:38:57 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:38:57 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:38:57 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:39:24 America/Bogota] Iniciando App
+[31-Oct-2024 09:39:24 America/Bogota] ===================================================
+[31-Oct-2024 09:39:24 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:39:24 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:39:24 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:39:24 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:39:24 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:39:35 America/Bogota] Iniciando App
+[31-Oct-2024 09:39:35 America/Bogota] ===================================================
+[31-Oct-2024 09:39:35 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:39:35 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:39:35 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:39:35 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:39:35 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:39:38 America/Bogota] Iniciando App
+[31-Oct-2024 09:39:38 America/Bogota] ===================================================
+[31-Oct-2024 09:39:38 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:39:38 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:39:38 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:39:38 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:39:38 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:39:59 America/Bogota] Iniciando App
+[31-Oct-2024 09:39:59 America/Bogota] ===================================================
+[31-Oct-2024 09:39:59 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:39:59 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:39:59 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:39:59 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:39:59 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:40:01 America/Bogota] Iniciando App
+[31-Oct-2024 09:40:01 America/Bogota] ===================================================
+[31-Oct-2024 09:40:01 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:40:01 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:40:01 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:40:01 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:40:01 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:40:15 America/Bogota] Iniciando App
+[31-Oct-2024 09:40:15 America/Bogota] ===================================================
+[31-Oct-2024 09:40:15 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:40:15 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:40:15 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:40:15 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:40:15 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:40:17 America/Bogota] Iniciando App
+[31-Oct-2024 09:40:17 America/Bogota] ===================================================
+[31-Oct-2024 09:40:17 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:40:17 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:40:17 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:40:17 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:40:17 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:40:17 America/Bogota] Iniciando App
+[31-Oct-2024 09:40:17 America/Bogota] ===================================================
+[31-Oct-2024 09:40:17 America/Bogota] Iniciando App
+[31-Oct-2024 09:40:17 America/Bogota] ===================================================
+[31-Oct-2024 09:40:17 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:40:17 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:40:17 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:40:17 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:40:17 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:40:17 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:40:17 America/Bogota] Iniciando App
+[31-Oct-2024 09:40:17 America/Bogota] ===================================================
+[31-Oct-2024 09:40:17 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:40:17 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:40:17 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:40:17 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:40:17 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:40:17 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:40:17 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:40:17 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:40:17 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:40:39 America/Bogota] Iniciando App
+[31-Oct-2024 09:40:39 America/Bogota] ===================================================
+[31-Oct-2024 09:40:39 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:40:40 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:40:40 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:40:40 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:40:40 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:40:41 America/Bogota] Iniciando App
+[31-Oct-2024 09:40:41 America/Bogota] ===================================================
+[31-Oct-2024 09:40:41 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:40:41 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:40:41 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:40:41 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:40:41 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:41:30 America/Bogota] Iniciando App
+[31-Oct-2024 09:41:30 America/Bogota] ===================================================
+[31-Oct-2024 09:41:30 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:41:30 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:41:30 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:41:30 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:41:30 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:41:31 America/Bogota] Iniciando App
+[31-Oct-2024 09:41:31 America/Bogota] ===================================================
+[31-Oct-2024 09:41:31 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:41:32 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:41:32 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:41:32 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:41:32 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:47:33 America/Bogota] Iniciando App
+[31-Oct-2024 09:47:33 America/Bogota] ===================================================
+[31-Oct-2024 09:47:33 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:47:33 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:47:33 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:47:33 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:47:33 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:50:43 America/Bogota] Iniciando App
+[31-Oct-2024 09:50:43 America/Bogota] ===================================================
+[31-Oct-2024 09:50:43 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:50:43 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:50:43 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:50:43 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:50:43 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:51:20 America/Bogota] Iniciando App
+[31-Oct-2024 09:51:20 America/Bogota] ===================================================
+[31-Oct-2024 09:51:20 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:51:20 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:51:20 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:51:20 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:51:20 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:51:22 America/Bogota] Iniciando App
+[31-Oct-2024 09:51:22 America/Bogota] ===================================================
+[31-Oct-2024 09:51:22 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:51:22 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:51:22 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:51:22 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:51:22 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:52:13 America/Bogota] Iniciando App
+[31-Oct-2024 09:52:13 America/Bogota] ===================================================
+[31-Oct-2024 09:52:13 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:52:13 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:52:13 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:52:13 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:52:13 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:53:01 America/Bogota] Iniciando App
+[31-Oct-2024 09:53:01 America/Bogota] ===================================================
+[31-Oct-2024 09:53:02 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:53:02 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:53:02 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:53:02 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:53:02 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:53:23 America/Bogota] Iniciando App
+[31-Oct-2024 09:53:23 America/Bogota] ===================================================
+[31-Oct-2024 09:53:23 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:53:23 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:53:23 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:53:23 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:53:23 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:54:08 America/Bogota] Iniciando App
+[31-Oct-2024 09:54:08 America/Bogota] ===================================================
+[31-Oct-2024 09:54:09 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:54:09 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:54:09 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:54:09 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:54:09 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:54:24 America/Bogota] Iniciando App
+[31-Oct-2024 09:54:24 America/Bogota] ===================================================
+[31-Oct-2024 09:54:24 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:54:24 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:54:24 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:54:24 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:54:24 America/Bogota] reporte::render -> Cargando vista de reporte
+[31-Oct-2024 09:54:26 America/Bogota] Iniciando App
+[31-Oct-2024 09:54:26 America/Bogota] ===================================================
+[31-Oct-2024 09:54:26 America/Bogota] sessionController::getUserSessionData(): usuario-Camilopineros85@gmail.com
+[31-Oct-2024 09:54:26 America/Bogota] sessionController::getUserSessionData(): rol-2
+[31-Oct-2024 09:54:26 America/Bogota] sessionController::getUserSessionData(): local-2
+[31-Oct-2024 09:54:26 America/Bogota] reporte::construct -> Inicio del controlador reporte
+[31-Oct-2024 09:54:26 America/Bogota] reporte::render -> Cargando vista de reporte

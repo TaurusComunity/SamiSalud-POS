@@ -169,6 +169,9 @@ function openPaymentModal() {
 
 function closeModal() {
   document.getElementById("paymentModal").classList.add("hidden");
+   // Obtenemos el input y limpiamos su valor
+   let inputElement = document.getElementById("amountPaid");
+   inputElement.value = ""; // Limpiamos el input si existe
 }
 
 // METODO IMPRIMIR FACTURA
@@ -255,6 +258,11 @@ function imprimirFactura(montoPagado, cambio, user, selectedPaymentMethod) {
   ventanaImpresion.close();
 }
 
+function limpiarInput() {
+ 
+}
+
+
 function calcularCambioSinFactura() {
   const amountPaid =
     parseFloat(document.getElementById("amountPaid").value) || 0;
@@ -296,9 +304,12 @@ function calcularCambioSinFactura() {
     productos: productos,
   });
 
+
+
   closeModalImprimir();
   closeModal();
   eliminarTodosLosProductos();
+  limpiarInput();
   alert("Venta registrada sin factura.");
 }
 
@@ -329,7 +340,7 @@ function calcularCambio() {
     cambio < 0 ||
     productos.length === 0
   ) {
-    alert("No puedes facturar sin productos.");
+    alert("No puedes facturar, verifica.");
     return;
   }
 
@@ -345,9 +356,11 @@ function calcularCambio() {
     paymentMethod: selectedPaymentMethod,
     productos: productos,
   });
+  
 
   closeModalImprimir();
   closeModal();
+  limpiarInput(); // Llamada a limpiarInput
   alert("Venta registrada con factura.");
   eliminarTodosLosProductos();
 }
