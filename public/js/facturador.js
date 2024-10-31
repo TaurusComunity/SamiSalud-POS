@@ -258,8 +258,8 @@ function imprimirFactura(montoPagado, cambio, user, selectedPaymentMethod) {
   ventanaImpresion.close();
 }
 
-function limpiarInput() {
- 
+function recargarVenta() {
+  location.reload(); // Recarga la página actual
 }
 
 
@@ -309,7 +309,6 @@ function calcularCambioSinFactura() {
   closeModalImprimir();
   closeModal();
   eliminarTodosLosProductos();
-  limpiarInput();
   alert("Venta registrada sin factura.");
 }
 

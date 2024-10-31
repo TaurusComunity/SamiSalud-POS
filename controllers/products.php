@@ -98,15 +98,16 @@ class Products extends SessionController {
     
 
     public function updateProduct() {
-        if ($this->existPOST(['codigo_barras', 'nombre', 'stock', 'precio_neto', 'precio', 'icui', 'iva', 'lote', 'fechaVencimiento', 'registroSanitario', 'distribuidor'])) {
+        if ($this->existPOST(['codigo_barras', 'nombre', 'stock', 'precio_neto', 'precio', 'icui', 'iva', 'id_categoria', 'lote', 'fechaVencimiento', 'registroSanitario', 'distribuidor'])) {
     
             $codigo_barras = $this->getPOST('codigo_barras');
             $nombre = $this->getPOST('nombre');
             $stock = $this->getPOST('stock');
             $precio_neto = $this->getPOST('precio_neto');
             $precio = $this->getPOST('precio');
-            $iva = $this->getPOST('iva');
             $icui = $this->getPOST('icui');
+            $iva = $this->getPOST('iva');
+            $id_categoria = $this->getPOST('id_categoria');
             $lote = $this->getPOST('lote');
             $fechaVencimiento = $this->getPOST('fechaVencimiento');
             $registroSanitario = $this->getPOST('registroSanitario');
@@ -141,8 +142,12 @@ class Products extends SessionController {
             if (isset($originalProduct->iva) && $originalProduct->iva != $iva) {
                 $changes[] = "IVA: {$originalProduct->iva} → $iva";
             }
+            
             if (isset($originalProduct->icui) && $originalProduct->icui != $icui) {
                 $changes[] = "ICUI: {$originalProduct->icui} → $icui";
+            }
+            if (isset($originalProduct->id_categoria) && $originalProduct->id_categoria != $id_categoria) {
+                $changes[] = "Categoria: {$originalProduct->id_categoria} → $id_categoria";
             }
             if (isset($originalProduct->lote) && $originalProduct->lote !== $lote) {
                 $changes[] = "Lote: {$originalProduct->lote} → $lote";
@@ -158,7 +163,7 @@ class Products extends SessionController {
             }
     
             // Asignar nuevos valores al modelo solo si son diferentes
-            if ($productModel->updateValues($codigo_barras, $nombre, $stock, $precio_neto, $precio, $iva, $icui, $lote, $fechaVencimiento, $registroSanitario, $distribuidor)) {
+            if ($productModel->updateValues($codigo_barras, $nombre, $stock, $precio_neto, $precio, $iva, $icui, $id_categoria, $lote, $fechaVencimiento, $registroSanitario, $distribuidor)) {
                 // Registrar actividad solo si hay cambios
                 if (!empty($changes)) {
                     $changeMessage = implode("<br>", $changes); // Usar <br> para saltos de línea en HTML
@@ -176,7 +181,7 @@ class Products extends SessionController {
     
     
     // Método para actualizar valores en el modelo
-    public function updateValues($codigo_barras, $nombre, $stock, $precio_neto, $precio, $iva, $icui, $lote, $fechaVencimiento, $registroSanitario, $distribuidor) {
+    public function updateValues($codigo_barras, $nombre, $stock, $precio_neto, $precio, $iva, $icui,$id_categoria, $lote, $fechaVencimiento, $registroSanitario, $distribuidor) {
         // Preparar la consulta para actualizar el producto
         $stmt = $this->db->prepare("UPDATE productos SET 
             nombre = :nombre,
@@ -185,6 +190,7 @@ class Products extends SessionController {
             precio = :precio,
             iva = :iva,
             icui = :icui,
+            id_categoria = :id_categoria,
             lote = :lote,
             fechaVencimiento = :fechaVencimiento,
             registroSanitario = :registroSanitario,
@@ -199,6 +205,7 @@ class Products extends SessionController {
         $stmt->bindParam(':precio', $precio);
         $stmt->bindParam(':iva', $iva);
         $stmt->bindParam(':icui', $icui);
+        $stmt->bindParam(':id_categoria', $id_categoria );
         $stmt->bindParam(':lote', $lote);
         $stmt->bindParam(':fechaVencimiento', $fechaVencimiento);
         $stmt->bindParam(':registroSanitario', $registroSanitario);

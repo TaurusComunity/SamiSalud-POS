@@ -186,6 +186,10 @@ $productInfo = isset($this->data['productInfo']) ? $this->data['productInfo'] : 
                     <h3 class="text-azul text-[16px] font-semibold">Fecha de actualización:</h3> 
                     <p class="text-[14px] font-medium"> <?php echo $product ? $product['fecha_Actualizacion'] : 'No disponible'; ?></p>
                 </div>
+                <div class="flex justify-between py-2 px-5">
+                    <h3 class="text-azul text-[16px] font-semibold">Categoría:</h3> 
+                    <p class="text-[14px] font-medium"> <?php echo $product ? $product['id_categoria'] : 'No disponible'; ?></p>
+                </div>
 
                
                 

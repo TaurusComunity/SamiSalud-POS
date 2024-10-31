@@ -416,7 +416,7 @@ public function getNombreGlobal() {
         return $stmt->fetchObject();
     }
 
-    public function updateValues($codigo_barras, $nombre, $stock, $precio_neto, $precio, $iva, $icui, $lote, $fechaVencimiento, $registroSanitario, $distribuidor) {
+    public function updateValues($codigo_barras, $nombre, $stock, $precio_neto, $precio, $iva, $icui, $id_categoria, $lote, $fechaVencimiento, $registroSanitario, $distribuidor) {
         // Actualizar solo los campos de la tabla productos
         $stmt = $this->prepare("UPDATE productos SET 
             nombre = :nombre,
@@ -424,7 +424,8 @@ public function getNombreGlobal() {
             precio_neto = :precio_neto,
             precio = :precio,
             iva = :iva,
-            icui = :icui
+            icui = :icui,
+            id_categoria = :id_categoria
             WHERE codigo_barras = :codigo_barras");
     
         // Vincular los parámetros
@@ -435,6 +436,7 @@ public function getNombreGlobal() {
         $stmt->bindParam(':precio', $precio);
         $stmt->bindParam(':iva', $iva);
         $stmt->bindParam(':icui', $icui);
+        $stmt->bindParam(':id_categoria', $id_categoria);
     
         // Ejecutar la consulta y verificar el resultado
         $result = $stmt->execute();
