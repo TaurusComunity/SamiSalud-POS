@@ -51,7 +51,7 @@
     </div>
 </div>
 
-<!-- Modal de Método de Pago -->
+<!-- Modal de Imprimir -->
 <div id="modalImprimir" class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center">
     <div class="h-[22%] w-11/12 md:w-1/2 p-5 bg-white rounded-md ">
         <!-- Header -->
@@ -67,9 +67,6 @@
             </div>
         </div>
         <!-- Modal Content -->
-       
-        
-        
         <div class="flex justify-center gap-5 mt-2">
             <button onclick="calcularCambioSinFactura()" class="flex items-center bg-white border-2 border-rojo text-rojo gap-1 px-10 py-2 mt-4 cursor-pointer text-gray-800 font-semibold tracking-widest rounded-md hover:bg-white hover:text-rojo duration-300 hover:gap-2 hover:translate-x-3">
                 NO
