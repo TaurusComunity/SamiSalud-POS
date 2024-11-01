@@ -12,48 +12,46 @@ document
 
     // Comprobamos si el tamaño del buffer está dentro del rango permitido
     if (barcodeBuffer.length >= 5 && barcodeBuffer.length <= 15) {
-      // Iniciamos un temporizador para procesar el código de barras después de 1500ms de inactividad
+      // Iniciamos un temporizador para procesar el código de barras después de 300ms de inactividad
       typingTimer = setTimeout(() => {
         buscarProducto(barcodeBuffer);
         barcodeBuffer = ""; // Limpiamos el buffer después de enviar el código
         document.getElementById("barcodeInput").value = ""; // Limpiamos el input
-      }, 1500); // Espera 1500ms para asegurarse de que el usuario ha terminado de escribir o el lector ha completado
-    } else if (barcodeBuffer.length > 15) {
-      // Si el código de barras supera el límite, limpiamos el buffer
-      alert("El código de barras no puede exceder los 15 caracteres.");
-      barcodeBuffer = ""; // Reiniciar el buffer
-      document.getElementById("barcodeInput").value = ""; // Limpiar el input
+      }, 1500); // Espera 3000ms para asegurarse de que el usuario ha terminado de escribir o el lector ha completado
     }
   });
 
 // BUSCAR Y AÑADIR PRODUCTO
 function buscarProducto(barcode) {
-  if (barcode) {
-    fetch(`facturador/buscador?barcode=${barcode}`)
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error("Error al obtener el producto");
-        }
-        return response.json();
-      })
-      .then((data) => {
-        if (data) {
-          // Comprobar si el stock es 0
-          if (data.stock <= 0) {
-            alert(`El producto '${data.nombre}' no está disponible en stock.`);
-          } else {
-            agregarProductoATabla(data);
+    if (barcode) {
+      fetch(`facturador/buscador?barcode=${barcode}`)
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error("Error al obtener el producto");
           }
-        } else {
-          alert("Producto no encontrado.");
-        }
-      })
-      .catch((error) => {
-        console.error("Error:", error);
-      });
+          return response.json();
+        })
+        .then((data) => {
+          if (data) {
+            // Comprobar si el stock es 0
+            if (data.stock <= 0) {
+              alert(`El producto '${data.nombre}' no está disponible en stock.`);
+              if (data.stock <= 0) {
+                alert(`El producto '${data.nombre}' no está disponible en stock.`);
+              }
+            } else {
+              agregarProductoATabla(data);
+            }
+          } else {
+            alert("Producto no encontrado.");
+          }
+        })
+        .catch((error) => {
+          console.error("Error:", error);
+        });
+    }
   }
-}
-
+  
 // AGREGAR PRODUCTO A LA TABLA
 function agregarProductoATabla(producto) {
   const tableBody = document.getElementById("productTableBody");
@@ -107,6 +105,7 @@ function agregarProductoATabla(producto) {
   actualizarTotal(); // Llama a la función para actualizar el total
 }
 
+
 // CALCULAR TOTAL
 function calcularTotal() {
   const tableBody = document.getElementById("productTableBody");
@@ -143,13 +142,24 @@ function eliminarProducto(row) {
 
 // ELIMINAR TODOS LOS PRODUCTOS
 function eliminarTodosLosProductos() {
-  const productTableBody = document.getElementById("productTableBody");
-
-  while (productTableBody.firstChild) {
-    productTableBody.removeChild(productTableBody.firstChild);
+    // Selecciona el cuerpo de la tabla
+    const productTableBody = document.getElementById("productTableBody");
+  
+    // Elimina todos los hijos (filas) del tbody
+    while (productTableBody.firstChild) {
+      productTableBody.removeChild(productTableBody.firstChild);
+    }
+  
+    // Actualiza el total
+    actualizarTotal();
   }
 
-  actualizarTotal();
+///////////////////////////
+
+// Función para eliminar un producto (fila) de la tabla
+function eliminarProducto(row) {
+  row.remove();
+  actualizarTotal(); // Actualiza el total después de eliminar
 }
 
 // METODOS DE PAGO
@@ -159,21 +169,12 @@ function openPaymentModal() {
 
 function closeModal() {
   document.getElementById("paymentModal").classList.add("hidden");
-  let inputElement = document.getElementById("amountPaid");
-  inputElement.value = ""; // Limpiamos el input si existe
 }
 
 // METODO IMPRIMIR FACTURA
 function openModalImprimir() {
   document.getElementById("modalImprimir").classList.remove("hidden");
-  resetModal();
 }
-
-function resetModal() {
-  document.getElementById('paymentMethod').selectedIndex = 0; // Vuelve a la opción predeterminada
-  document.getElementById('amountPaid').value = ''; // Limpiar el campo
-}
-
 function closeModalImprimir() {
   document.getElementById("modalImprimir").classList.add("hidden");
 }
@@ -230,17 +231,160 @@ function imprimirFactura(montoPagado, cambio, user, selectedPaymentMethod) {
 <hr style="border: 1px solid black; margin: 10px 0;">
 <div style="text-align: right; font-family: 'Poppins', sans-serif;">
 <p style="margin: 2px 0;">Total: $${total.toLocaleString("es-CO")}</strong></p>
-<p style="margin: 2px 0;">Monto Pagado: $${montoPagado.toLocaleString("es-CO")}</strong></p>
-<p style="margin: 2px 0;">Cambio: $${cambio.toLocaleString("es-CO")}</strong></p>
+<p style="margin: 2px 0; text-align:left;">Método de pago:</p>
+<p style="margin: 2px 0;">${selectedPaymentMethod}: $${montoPagado.toLocaleString(
+    "es-CO"
+  )}</strong></p>
+<p style="margin: 2px 0;">Cambio: $${
+    selectedPaymentMethod === "Efectivo" ? cambio.toLocaleString("es-CO") : 0
+  }</strong></p>
 </div>
+<hr style="border: 1px solid black; margin: 10px 0;">
+<p style="text-align: center; font-family: 'Poppins', sans-serif; font-size: 12px;">TAURUS COMUNITY<br>Todos los derechos reservados 2024</p>
+<p style="text-align: center; font-family: 'Poppins', sans-serif; font-size: 12px;">www.taurusco.com</p>
 `;
 
-  const ventanaImpresion = window.open("", "_blank");
+  const ventanaImpresion = window.open("", "", "height=400,width=600");
+  ventanaImpresion.document.write("<html><head><title>Factura</title>");
+  ventanaImpresion.document.write(
+    '<style>body { font-family: "Poppins", sans-serif; } table { width: 100%; border-collapse: collapse; } th, td { padding: 8px; text-align: left; border-bottom: 1px solid black; }</style>'
+  );
   ventanaImpresion.document.write(facturaHtml);
-  ventanaImpresion.document.close();
-  ventanaImpresion.focus();
+  ventanaImpresion.document.write("</body></html>");
   ventanaImpresion.print();
   ventanaImpresion.close();
+}
+
+function calcularCambioSinFactura() {
+  const amountPaid =
+    parseFloat(document.getElementById("amountPaid").value) || 0;
+  const selectedPaymentMethod = document.getElementById("paymentMethod").value;
+
+  const total = calcularTotal(); // Debes implementar esta función para obtener el total
+  const cambio = amountPaid - total;
+
+  // Asegúrate de que hay productos en la tabla
+  const productos = Array.from(document.querySelectorAll("tbody tr")).map(
+    (row) => {
+      return {
+        codigo_barras: row.cells[0].textContent,
+        nombre: row.cells[1].textContent,
+        cantidad: parseInt(row.cells[2].textContent),
+        precio_total: parseFloat(row.cells[3].textContent.replace(/\$|,/g, "")),
+      };
+    }
+  );
+
+  // Validar todos los campos
+  if (
+    !selectedPaymentMethod ||
+    amountPaid <= 0 ||
+    cambio < 0 ||
+    productos.length === 0
+  ) {
+    alert("No puedes facturar sin productos.");
+    return;
+  }
+
+  // Ahora llama a guardarFactura con todos los datos recogidos
+  guardarFactura(total, amountPaid, cambio, selectedPaymentMethod, productos);
+  console.log({
+    total: total,
+    amountPaid: amountPaid,
+    cambio: cambio,
+    paymentMethod: selectedPaymentMethod,
+    productos: productos,
+  });
 
   closeModalImprimir();
+  closeModal();
+  eliminarTodosLosProductos();
+  alert("Venta registrada sin factura.");
+}
+
+function calcularCambio() {
+  const amountPaid =
+    parseFloat(document.getElementById("amountPaid").value) || 0;
+  const selectedPaymentMethod = document.getElementById("paymentMethod").value;
+
+  const total = calcularTotal(); // Debes implementar esta función para obtener el total
+  const cambio = amountPaid - total;
+
+  // Asegúrate de que hay productos en la tabla
+  const productos = Array.from(document.querySelectorAll("tbody tr")).map(
+    (row) => {
+      return {
+        codigo_barras: row.cells[0].textContent,
+        nombre: row.cells[1].textContent,
+        cantidad: parseInt(row.cells[2].textContent),
+        precio_total: parseFloat(row.cells[3].textContent.replace(/\$|,/g, "")),
+      };
+    }
+  );
+
+  // Validar todos los campos
+  if (
+    !selectedPaymentMethod ||
+    amountPaid <= 0 ||
+    cambio < 0 ||
+    productos.length === 0
+  ) {
+    alert("No puedes facturar sin productos.");
+    return;
+  }
+
+  // Llama a imprimirFactura con los argumentos necesarios
+  imprimirFactura(amountPaid, cambio, user, selectedPaymentMethod);
+
+  // Ahora llama a guardarFactura con todos los datos recogidos
+  guardarFactura(total, amountPaid, cambio, selectedPaymentMethod, productos);
+  console.log({
+    total: total,
+    amountPaid: amountPaid,
+    cambio: cambio,
+    paymentMethod: selectedPaymentMethod,
+    productos: productos,
+  });
+
+  closeModalImprimir();
+  closeModal();
+  alert("Venta registrada con factura.");
+  eliminarTodosLosProductos();
+}
+
+async function guardarFactura(
+  total,
+  amountPaid,
+  cambio,
+  selectedPaymentMethod,
+  productos
+) {
+  try {
+    // Guarda la factura con todos los detalles de productos
+    const response = await fetch("facturador/newFactura", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        total: total,
+        amountPaid: amountPaid,
+        cambio: cambio,
+        paymentMethod: selectedPaymentMethod,
+        productos: productos, // Aquí enviamos el array de productos
+      }),
+    });
+
+    if (!response.ok) {
+      throw new Error(
+        "Error en la respuesta del servidor al guardar la factura"
+      );
+    }
+
+    const data = await response.json();
+    console.log("Factura y detalles guardados:", data);
+  } catch (error) {
+    console.error("Error al guardar la factura:", error);
+    throw error;
+  }
 }
