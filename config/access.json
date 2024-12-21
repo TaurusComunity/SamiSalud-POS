@@ -1,0 +1,38 @@
+{
+    "sites": [
+        {
+            "site": "",
+            "access": "public",
+            "role": ""
+        },
+        {
+            "site": "signup",
+            "access": "public",
+            "role": ""
+        },
+        {
+            "site": "indexAdmin",
+            "access": "private",
+            "role": "2"
+        },
+        {
+            "site": "indexEmpleado",
+            "access": "private",
+            "role": "1"
+        },
+        {
+            "site": "user",
+            "access": "private",
+            "role": "1"
+        },
+        {
+            "site": "user",
+            "access": "private",
+            "role": "2"
+        }
+    ],
+    "default-sites":{
+        "empleado": "/empleado",
+        "admin": "/admin"
+    }
+}
