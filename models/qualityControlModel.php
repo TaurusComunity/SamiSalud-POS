@@ -181,6 +181,7 @@ class QualityControlModel extends Model implements IModel
                 'pisos_dispensacion' => $this->pisos_dispensacion,
                 'estantes_vitrinas_cajoneras' => $this->estantes_vitrinas_cajoneras,
                 'canecas' => $this->canecas,
+                'fecha_Creacion' => $this->fecha_Creacion,
                 'fecha_Actualizacion' => $this->fecha_Actualizacion,
                 'id_local' => $this->id_local,  // Local se asigna desde el usuario logueado
                 'id_usuario' => $this->id_usuario // Aquí se añade el id del usuario
@@ -463,7 +464,7 @@ class QualityControlModel extends Model implements IModel
         $this->techos_paredes = $array['techos_paredes'];
         $this->pisos_dispensacion = $array['pisos_dispensacion'];
         $this->estantes_vitrinas_cajoneras = $array['estantes_vitrinas_cajoneras'];
-        $this->canecas = 'canecas';
+        $this->canecas = $array['canecas'];
 
         // registro temperatura
         $this->temperatura = $array['temperatura'];

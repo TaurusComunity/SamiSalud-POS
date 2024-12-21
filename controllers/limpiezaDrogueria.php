@@ -35,19 +35,19 @@ class LimpiezaDrogueria extends SessionController {
     
         try {
             // Crear 
-            $limpiezDrogueria = new QualityControlModel();
-            $limpiezDrogueria->setBanio($this->getPOST('banio'));
-            $limpiezDrogueria->setInyectologia($this->getPOST('inyectologia'));
-            $limpiezDrogueria->setTechos_paredes($this->getPOST('techos_paredes'));
-            $limpiezDrogueria->setPisos_dispensacion($this->getPOST('pisos_dispensacion'));
-            $limpiezDrogueria->setEstantes_vitrinas_cajoneras($this->getPOST('estantes_vitrinas_cajoneras'));
-            $limpiezDrogueria->setCanecas($this->getPOST('canecas'));
-            $limpiezDrogueria->setId_local($this->user->getId_local());  // Añadir local según el usuario logueado
-            $limpiezDrogueria->setId_usuario($this->user->getId());      // Usuario logueado que registra la factura
+            $limpiezaDrogueria = new QualityControlModel();
+            $limpiezaDrogueria->setBanio($this->getPOST('banio'));
+            $limpiezaDrogueria->setInyectologia($this->getPOST('inyectologia'));
+            $limpiezaDrogueria->setTechos_paredes($this->getPOST('techos_paredes'));
+            $limpiezaDrogueria->setPisos_dispensacion($this->getPOST('pisos_dispensacion'));
+            $limpiezaDrogueria->setEstantes_vitrinas_cajoneras($this->getPOST('estantes_vitrinas_cajoneras'));
+            $limpiezaDrogueria->setCanecas($this->getPOST('canecas'));
+            $limpiezaDrogueria->setId_local($this->user->getId_local());  // Añadir local según el usuario logueado
+            $limpiezaDrogueria->setId_usuario($this->user->getId());      // Usuario logueado que registra la factura
         
     
             // Guardar 
-            if(!$limpiezDrogueria->saveLimpieza_drogueria()){
+            if(!$limpiezaDrogueria->saveLimpieza_drogueria()){
                 $this->redirect('/limpiezaDrogueria', ['error' => ErrorMessages::ERROR_PROCESAR_SOLICITUD_CREAR_CONTROL_CALIDAD]);
                 throw new Exception('Error al registrar la factura.');
             }

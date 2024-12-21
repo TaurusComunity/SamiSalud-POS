@@ -1,33 +1,33 @@
 <?php
 require_once 'models/qualityControlModel.php';
 
-class RegistroFacturas extends SessionController {
+class RegistroTemperatura extends SessionController {
     protected $user;
   
     function __construct(){
         parent::__construct();
         $this->user = $this->getUserSessionData(); // Asegurarse de inicializar la sesión del usuario
-        error_log('Admin::construct -> Inicio del controlador registro facturas');
+        error_log('Admin::construct -> Inicio del controlador registro temperaturas');
     }
 
     function render(){
-        error_log('registro facturas::render -> Cargando vista de registro facturas');
+        error_log('registro temperaturas::render -> Cargando vista de registro temperaturas');
         
         $controlCalidadModel = new QualityControlModel();
-        $registroFacturas = $controlCalidadModel->getAll();
+        $registroTemperatura = $controlCalidadModel->getAll();
         
         // Obtén los datos del usuario logueado
         $user = $this->getUserSessionData(); 
       
 
-        $this->view->render('admin/registroFacturasAdmin', [
+        $this->view->render('admin/registroTemperaturaAdmin', [
             'user' => $user,
-            'registroFacturas' => $registroFacturas,
+            'registroTemperatura' => $registroTemperatura,
         ]);
     }
     public function newFactura(){
         if(!$this->existPOST(['numero_factura', 'proveedor', 'total_producto', 'total_faltantes', 'total_devolucion'])){
-            $this->redirect('/registrofacturas', ['error' => ErrorMessages::ERROR_CAMPOS_VACIOS_CONTROL_CALIDAD]);
+            $this->redirect('/registroTemperatura', ['error' => ErrorMessages::ERROR_CAMPOS_VACIOS_CONTROL_CALIDAD]);
 
             return;
         }
@@ -51,24 +51,24 @@ class RegistroFacturas extends SessionController {
             }
     
             // Redirigir con mensaje de éxito
-            $this->redirect('/registrofacturas', ['success' => SuccessMessages::SUCCESS_CREAR_CONTROL_CALIDAD]);
+            $this->redirect('/registroTemperatura', ['success' => SuccessMessages::SUCCESS_CREAR_CONTROL_CALIDAD]);
     
         } catch (Exception $e) {
-            $this->redirect('/registrofacturas', ['error' => ErrorMessages::ERROR_PROCESAR_SOLICITUD_CREAR_CONTROL_CALIDAD]);
+            $this->redirect('/registroTemperatura', ['error' => ErrorMessages::ERROR_PROCESAR_SOLICITUD_CREAR_CONTROL_CALIDAD]);
         }
     }
     
     public function create(){
         $this->user = $this->getUserSessionData(); // A
-        $registroFacturasModel = new QualityControlModel();
-        $registroFacturas = $registroFacturasModel->getAll();
+        $registroTemperaturaModel = new QualityControlModel();
+        $registroTemperatura = $registroTemperaturaModel->getAll();
     
         // Log para verificar si se obtuvieron proveedores
-        error_log('Registro de facturas encontrados: ' . print_r($registroFacturas, true));
+        error_log('Registro de facturas encontrados: ' . print_r($registroTemperatura, true));
     
         // Asegurarse de que los proveedores se están pasando correctamente a la vista
-        $this->view->render('registrofacturas/create',[
-            'registroFacturas' => $registroFacturas,
+        $this->view->render('registroTemperatura/create',[
+            'registroTemperatura' => $registroTemperatura,
             'user' => $this->user
         ]);
     }
@@ -76,7 +76,7 @@ class RegistroFacturas extends SessionController {
 
     public function delete($params){
         if ($params == null) {
-            $this->redirect('/registrofacturas', ['error' => ErrorMessages::ERROR_PROCESAR_SOLICITUD_ELIMINAR_CONTROL_CALIDAD]); 
+            $this->redirect('/registroTemperatura', ['error' => ErrorMessages::ERROR_PROCESAR_SOLICITUD_ELIMINAR_CONTROL_CALIDAD]); 
             return;
         }
     
@@ -86,9 +86,9 @@ class RegistroFacturas extends SessionController {
         $res = $this->model->delete($id);
     
         if($res){
-            $this->redirect('/registrofacturas',  ['success' => SuccessMessages::SUCCESS_ELIMINAR_CONTROL_CALIDAD]); 
+            $this->redirect('/registroTemperatura',  ['success' => SuccessMessages::SUCCESS_ELIMINAR_CONTROL_CALIDAD]); 
         }else{
-            $this->redirect('/registrofacturas', ['error' => ErrorMessages::ERROR_PROCESAR_SOLICITUD_CREAR_CONTROL_CALIDAD]);
+            $this->redirect('/registroTemperatura', ['error' => ErrorMessages::ERROR_PROCESAR_SOLICITUD_CREAR_CONTROL_CALIDAD]);
         }
     }
 

@@ -33,7 +33,7 @@
 
                         <div
                             class="custom-select flex justify-between w-full bg-transparent outline-none px-4 py-3 text-base rounded-xl bg-white border border-[#4070f4] focus:shadow-md">
-                            <select name="banio" class="w-full">
+                            <select name="banio" class="w-full outline-none">
                                 <option>Limpieza del Baño </option>
                                 <option value="Hecho">Hecho</option>
                                 <option value="Pendiente">Pendiente</option>
