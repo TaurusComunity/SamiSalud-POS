@@ -27,8 +27,8 @@ $registroTemperatura = $this->data['registroTemperatura'];
     <section id="contenido" class="flex flex-col  bg-azul_oscuro_opacidad w-[60%] relative rounded-3xl my-5">
         <article class="w-full pt-5 px-8">
             <h2 class="text-azul_oscuro text-[32px] font-semibold">Registro de temperaturas</h2>
-            <p class="font-medium text-[18px] -mt-2 ">En esta seccion podrás guardar en linea o descargar la plantilla
-                Excel para llenar el correspondiente control.</p>
+            <p class="font-medium text-[18px] -mt-2 ">En esta seccion podrás guardar en linea o descargar la plantilla Excel para llenar el correspondiente control. (se recomienda llenar al finalizar el dia)</p>
+                
         </article>
 
         <?php $this->showMessages(); ?>
@@ -87,8 +87,9 @@ $registroTemperatura = $this->data['registroTemperatura'];
                 </div>
             </div>
 
-            <?php include 'views/partials/getRegistroFacturas.php'; ?>
-            <?php include 'views/partials/modalRegistroFacturas.php'; ?>
+            <?php include 'views/partials/getRegistroTemperaturas.php'; ?>
+            <?php include 'views/partials/modalRegistroTemperaturas.php'; ?>
+            <?php include 'views/partials/modalRegistroTemperaturasTarde.php'; ?>
 
 
         </main>

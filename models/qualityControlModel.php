@@ -30,7 +30,7 @@ class QualityControlModel extends Model implements IModel
 
     // registro temperatura
     private $temperatura;
-    private $mañana;
+    private $manana;
     private $tarde;
 
     // facturas PDF
@@ -75,7 +75,7 @@ class QualityControlModel extends Model implements IModel
 
         // registro temperatura
         $this->temperatura = '';
-        $this->mañana = '';
+        $this->manana = '';
         $this->tarde = '';
 
         // facturas PDF
@@ -210,12 +210,12 @@ class QualityControlModel extends Model implements IModel
 
 
             // Insertar en la tabla productos
-            $queryControl = $this->prepare('INSERT INTO registro_temperatura (temperatura, mañana, tarde, fecha_Creacion, fecha_Actualizacion, id_local, id_usuario) 
-                                              VALUES(:temperatura, :mañana, :tarde, :fecha_Creacion, :fecha_Actualizacion, :id_local, :id_usuario)');
+            $queryControl = $this->prepare('INSERT INTO registro_temperatura (temperatura, manana, tarde, fecha_Creacion, fecha_Actualizacion, id_local, id_usuario) 
+                                              VALUES(:temperatura, :manana, :tarde, :fecha_Creacion, :fecha_Actualizacion, :id_local, :id_usuario)');
 
             $queryControl->execute([
                 'temperatura' => $this->temperatura,
-                'mañana' => $this->mañana,
+                'manana' => $this->manana,
                 'tarde' => $this->tarde,
                 'fecha_Creacion' => $this->fecha_Creacion,
                 'fecha_Actualizacion' => $this->fecha_Actualizacion,
@@ -377,7 +377,7 @@ class QualityControlModel extends Model implements IModel
         $items = [];
 
         try {
-            $query = $this->query("SELECT * FROM registro_temperaturas");
+            $query = $this->query("SELECT * FROM registro_temperatura");
 
             while ($pointer = $query->fetch(PDO::FETCH_ASSOC)) {
                 $item = new QualityControlModel();
@@ -468,7 +468,7 @@ class QualityControlModel extends Model implements IModel
 
         // registro temperatura
         $this->temperatura = $array['temperatura'];
-        $this->mañana = $array['mañana'];
+        $this->manana = $array['manana'];
         $this->tarde = $array['tarde'];
 
         // facturas PDF
@@ -605,9 +605,9 @@ class QualityControlModel extends Model implements IModel
     {
         return $this->temperatura;
     }
-    public function getMañana()
+    public function getmanana()
     {
-        return $this->mañana;
+        return $this->manana;
     }
     public function getTarde()
     {
@@ -721,9 +721,9 @@ class QualityControlModel extends Model implements IModel
     {
         $this->temperatura = $temperatura;
     }
-    public function setMañana($mañana)
+    public function setmanana($manana)
     {
-        $this->mañana = $mañana;
+        $this->manana = $manana;
     }
     public function setTarde($tarde)
     {

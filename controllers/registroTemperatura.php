@@ -14,7 +14,7 @@ class RegistroTemperatura extends SessionController {
         error_log('registro temperaturas::render -> Cargando vista de registro temperaturas');
         
         $controlCalidadModel = new QualityControlModel();
-        $registroTemperatura = $controlCalidadModel->getAll();
+        $registroTemperatura = $controlCalidadModel->getAllRegistro_temperaturas();
         
         // Obtén los datos del usuario logueado
         $user = $this->getUserSessionData(); 
@@ -25,8 +25,8 @@ class RegistroTemperatura extends SessionController {
             'registroTemperatura' => $registroTemperatura,
         ]);
     }
-    public function newFactura(){
-        if(!$this->existPOST(['numero_factura', 'proveedor', 'total_producto', 'total_faltantes', 'total_devolucion'])){
+    public function newTemperatura(){
+        if(!$this->existPOST(['temperatura', 'manana', 'tarde'])){
             $this->redirect('/registroTemperatura', ['error' => ErrorMessages::ERROR_CAMPOS_VACIOS_CONTROL_CALIDAD]);
 
             return;
@@ -35,18 +35,16 @@ class RegistroTemperatura extends SessionController {
     
         try {
             // Crear 
-            $registroFactura = new QualityControlModel();
-            $registroFactura->setNumero_factura($this->getPOST('numero_factura'));
-            $registroFactura->setProveedor($this->getPOST('proveedor'));
-            $registroFactura->setTotal_productos($this->getPOST('total_producto'));
-            $registroFactura->setTotal_faltantes($this->getPOST('total_faltantes'));
-            $registroFactura->setTotal_devoluciones($this->getPOST('total_devolucion'));
-            $registroFactura->setId_local($this->user->getId_local());  // Añadir local según el usuario logueado
-            $registroFactura->setId_usuario($this->user->getId());      // Usuario logueado que registra la factura
+            $registroTemperatura = new QualityControlModel();
+            $registroTemperatura->setTemperatura($this->getPOST('temperatura'));
+            $registroTemperatura->setmanana($this->getPOST('manana'));
+            $registroTemperatura->setTarde($this->getPOST('tarde'));
+            $registroTemperatura->setId_local($this->user->getId_local());  // Añadir local según el usuario logueado
+            $registroTemperatura->setId_usuario($this->user->getId());      // Usuario logueado que registra la factura
         
     
             // Guardar 
-            if(!$registroFactura->save()){
+            if(!$registroTemperatura->saveRegistro_temperatura()){
                 throw new Exception('Error al registrar la factura.');
             }
     
@@ -61,7 +59,7 @@ class RegistroTemperatura extends SessionController {
     public function create(){
         $this->user = $this->getUserSessionData(); // A
         $registroTemperaturaModel = new QualityControlModel();
-        $registroTemperatura = $registroTemperaturaModel->getAll();
+        $registroTemperatura = $registroTemperaturaModel->getAllRegistro_temperaturas();
     
         // Log para verificar si se obtuvieron proveedores
         error_log('Registro de facturas encontrados: ' . print_r($registroTemperatura, true));
