@@ -427,3 +427,179 @@
 [23-Dec-2024 08:53:43 America/Bogota] sessionController::getUserSessionData(): rol-2
 [23-Dec-2024 08:53:43 America/Bogota] sessionController::getUserSessionData(): local-2
 [23-Dec-2024 08:53:43 America/Bogota] manualCalidad::render -> Cargando vista de manual calidad
+[23-Dec-2024 08:54:38 America/Bogota] Iniciando App
+[23-Dec-2024 08:54:38 America/Bogota] ===================================================
+[23-Dec-2024 08:54:39 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:54:39 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:54:39 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:54:39 America/Bogota] Admin::construct -> Inicio del controlador Admin
+[23-Dec-2024 08:54:39 America/Bogota] Admin::render -> Cargando vista de indexAdmin
+[23-Dec-2024 08:54:39 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:54:39 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:54:39 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:55:07 America/Bogota] Iniciando App
+[23-Dec-2024 08:55:07 America/Bogota] ===================================================
+[23-Dec-2024 08:55:08 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:55:08 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:55:08 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:55:08 America/Bogota] Admin::construct -> Inicio del controlador Admin
+[23-Dec-2024 08:55:08 America/Bogota] Admin::render -> Cargando vista de indexAdmin
+[23-Dec-2024 08:55:08 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:55:08 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:55:08 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:55:19 America/Bogota] Iniciando App
+[23-Dec-2024 08:55:19 America/Bogota] ===================================================
+[23-Dec-2024 08:55:20 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:55:20 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:55:20 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:55:20 America/Bogota] Categorias::construct -> Inicio del controlador categorias
+[23-Dec-2024 08:55:20 America/Bogota] Categorias::render -> Cargando vista de categorias
+[23-Dec-2024 08:55:20 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:55:20 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:55:20 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:55:24 America/Bogota] Iniciando App
+[23-Dec-2024 08:55:24 America/Bogota] ===================================================
+[23-Dec-2024 08:55:24 America/Bogota] drogueria::construct -> Inicio del controlador drogueria
+[23-Dec-2024 08:55:24 America/Bogota] drogueria::render -> Cargando vista de drogueria
+[23-Dec-2024 08:55:24 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:55:24 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:55:24 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:55:24 America/Bogota] PHP Warning:  include(views/partials/getProducts_form.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\SamiSalud-POS\views\admin\drogueriaAdmin.php on line 40
+[23-Dec-2024 08:55:24 America/Bogota] PHP Warning:  include(): Failed opening 'views/partials/getProducts_form.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\SamiSalud-POS\views\admin\drogueriaAdmin.php on line 40
+[23-Dec-2024 08:55:30 America/Bogota] Iniciando App
+[23-Dec-2024 08:55:30 America/Bogota] ===================================================
+[23-Dec-2024 08:55:30 America/Bogota] drogueria::construct -> Inicio del controlador drogueria
+[23-Dec-2024 08:55:30 America/Bogota] drogueria::render -> Cargando vista de drogueria
+[23-Dec-2024 08:55:30 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:55:30 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:55:30 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:55:30 America/Bogota] PHP Warning:  include(views/partials/getProducts_form.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\SamiSalud-POS\views\admin\drogueriaAdmin.php on line 40
+[23-Dec-2024 08:55:30 America/Bogota] PHP Warning:  include(): Failed opening 'views/partials/getProducts_form.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\SamiSalud-POS\views\admin\drogueriaAdmin.php on line 40
+[23-Dec-2024 08:56:29 America/Bogota] Iniciando App
+[23-Dec-2024 08:56:29 America/Bogota] ===================================================
+[23-Dec-2024 08:56:29 America/Bogota] drogueria::construct -> Inicio del controlador drogueria
+[23-Dec-2024 08:56:29 America/Bogota] drogueria::render -> Cargando vista de drogueria
+[23-Dec-2024 08:56:29 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:56:29 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:56:29 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:56:29 America/Bogota] PHP Warning:  include(views/partials/getProducts_form.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\SamiSalud-POS\views\admin\drogueriaAdmin.php on line 40
+[23-Dec-2024 08:56:29 America/Bogota] PHP Warning:  include(): Failed opening 'views/partials/getProducts_form.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\SamiSalud-POS\views\admin\drogueriaAdmin.php on line 40
+[23-Dec-2024 08:57:03 America/Bogota] Iniciando App
+[23-Dec-2024 08:57:03 America/Bogota] ===================================================
+[23-Dec-2024 08:57:03 America/Bogota] drogueria::construct -> Inicio del controlador drogueria
+[23-Dec-2024 08:57:03 America/Bogota] drogueria::render -> Cargando vista de drogueria
+[23-Dec-2024 08:57:03 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:57:03 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:57:03 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:57:11 America/Bogota] Iniciando App
+[23-Dec-2024 08:57:11 America/Bogota] ===================================================
+[23-Dec-2024 08:57:11 America/Bogota] infoID::construct -> Inicio del controlador infoID
+[23-Dec-2024 08:57:11 America/Bogota] infoID::show -> Cargando información del producto con código de barras: 7703546073882
+[23-Dec-2024 08:57:11 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:57:11 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:57:11 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:57:15 America/Bogota] Iniciando App
+[23-Dec-2024 08:57:15 America/Bogota] ===================================================
+[23-Dec-2024 08:57:15 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:57:15 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:57:15 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:57:15 America/Bogota] Categorias::construct -> Inicio del controlador categorias
+[23-Dec-2024 08:57:15 America/Bogota] Categorias::render -> Cargando vista de categorias
+[23-Dec-2024 08:57:15 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:57:15 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:57:15 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:57:19 America/Bogota] Iniciando App
+[23-Dec-2024 08:57:19 America/Bogota] ===================================================
+[23-Dec-2024 08:57:19 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:57:19 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:57:19 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:57:20 America/Bogota] proveedores::render -> Cargando vista de proveedores
+[23-Dec-2024 08:57:20 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:57:20 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:57:20 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:57:36 America/Bogota] Iniciando App
+[23-Dec-2024 08:57:36 America/Bogota] ===================================================
+[23-Dec-2024 08:57:36 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:57:36 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:57:36 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:57:36 America/Bogota] manualCalidad::render -> Cargando vista de manual calidad
+[23-Dec-2024 08:57:38 America/Bogota] Iniciando App
+[23-Dec-2024 08:57:38 America/Bogota] ===================================================
+[23-Dec-2024 08:57:38 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:57:38 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:57:38 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:57:38 America/Bogota] Admin::construct -> Inicio del controlador Gestion residuos
+[23-Dec-2024 08:57:38 America/Bogota] Gestion residuos::render -> Cargando vista de Gestion residuos
+[23-Dec-2024 08:57:38 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:57:38 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:57:38 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:57:48 America/Bogota] Iniciando App
+[23-Dec-2024 08:57:48 America/Bogota] ===================================================
+[23-Dec-2024 08:57:48 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:57:48 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:57:48 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:57:48 America/Bogota] Categorias::construct -> Inicio del controlador categorias
+[23-Dec-2024 08:57:48 America/Bogota] Categorias::render -> Cargando vista de categorias
+[23-Dec-2024 08:57:48 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:57:48 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:57:48 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:57:51 America/Bogota] Iniciando App
+[23-Dec-2024 08:57:51 America/Bogota] ===================================================
+[23-Dec-2024 08:57:51 America/Bogota] Admin::construct -> Inicio del controlador nevera
+[23-Dec-2024 08:57:51 America/Bogota] nevera::render -> Cargando vista de nevera
+[23-Dec-2024 08:57:51 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:57:51 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:57:51 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:57:58 America/Bogota] Iniciando App
+[23-Dec-2024 08:57:58 America/Bogota] ===================================================
+[23-Dec-2024 08:57:58 America/Bogota] infoID::construct -> Inicio del controlador infoID
+[23-Dec-2024 08:57:58 America/Bogota] infoID::show -> Cargando información del producto con código de barras: 7702192422051
+[23-Dec-2024 08:57:59 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:57:59 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:57:59 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:58:04 America/Bogota] Iniciando App
+[23-Dec-2024 08:58:04 America/Bogota] ===================================================
+[23-Dec-2024 08:58:04 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:58:04 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:58:04 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:58:04 America/Bogota] Iniciando App
+[23-Dec-2024 08:58:04 America/Bogota] ===================================================
+[23-Dec-2024 08:58:05 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:58:05 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:58:05 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:58:05 America/Bogota] Categorias::construct -> Inicio del controlador categorias
+[23-Dec-2024 08:58:05 America/Bogota] Categorias::render -> Cargando vista de categorias
+[23-Dec-2024 08:58:05 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:58:05 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:58:05 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 09:00:00 America/Bogota] Iniciando App
+[23-Dec-2024 09:00:00 America/Bogota] ===================================================
+[23-Dec-2024 09:00:00 America/Bogota] Admin::construct -> Inicio del controlador dulceria
+[23-Dec-2024 09:00:00 America/Bogota] dulceria::render -> Cargando vista de dulceria
+[23-Dec-2024 09:00:00 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 09:00:00 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 09:00:00 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 09:00:03 America/Bogota] Iniciando App
+[23-Dec-2024 09:00:03 America/Bogota] ===================================================
+[23-Dec-2024 09:00:03 America/Bogota] infoID::construct -> Inicio del controlador infoID
+[23-Dec-2024 09:00:03 America/Bogota] infoID::show -> Cargando información del producto con código de barras: 7702007080742
+[23-Dec-2024 09:00:03 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 09:00:03 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 09:00:03 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 09:00:20 America/Bogota] Iniciando App
+[23-Dec-2024 09:00:20 America/Bogota] ===================================================
+[23-Dec-2024 09:00:20 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 09:00:20 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 09:00:20 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 09:00:20 America/Bogota] Categorias::construct -> Inicio del controlador categorias
+[23-Dec-2024 09:00:20 America/Bogota] Categorias::render -> Cargando vista de categorias
+[23-Dec-2024 09:00:20 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 09:00:20 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 09:00:20 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 09:00:23 America/Bogota] Iniciando App
+[23-Dec-2024 09:00:23 America/Bogota] ===================================================
+[23-Dec-2024 09:00:23 America/Bogota] drogueria::construct -> Inicio del controlador drogueria
+[23-Dec-2024 09:00:23 America/Bogota] drogueria::render -> Cargando vista de drogueria
+[23-Dec-2024 09:00:23 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 09:00:23 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 09:00:23 America/Bogota] sessionController::getUserSessionData(): local-2
