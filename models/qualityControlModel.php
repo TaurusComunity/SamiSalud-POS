@@ -85,7 +85,6 @@ class QualityControlModel extends Model implements IModel
         $this->mes = '';
         $this->tipo_residuo = '';
         $this->cantidad = '';
-        $this->total_mes_residuo = '';
     }
     
     // registro facturas
@@ -287,7 +286,7 @@ class QualityControlModel extends Model implements IModel
                 'mes' => $this->mes,
                 'tipo_residuo' => $this->tipo_residuo,
                 'cantidad' => $this->cantidad,
-                'total_mes' => $this->total_mes_residuo,
+                'total_mes' => $this->total_mes,
                 'fecha_Creacion' => $this->fecha_Creacion,
                 'fecha_Actualizacion' => $this->fecha_Actualizacion,
                 'id_local' => $this->id_local,  // Local se asigna desde el usuario logueado
@@ -477,7 +476,7 @@ class QualityControlModel extends Model implements IModel
         // gestion residuos
         $this->tipo_residuo = $array['tipo_residuo'];
         $this->cantidad = $array['cantidad'];
-        $this->total_mes_residuo = $array['total_mes_residuo'];
+        $this->mes = $array['mes'];
     }
     public function getFormNamesByControlCalidad($idLocal)
     {
@@ -490,8 +489,6 @@ class QualityControlModel extends Model implements IModel
                 SELECT 'Limpieza drogueria'
                 UNION
                 SELECT 'Registro temperatura'
-                UNION
-                SELECT 'Facturas pdf'
                 UNION
                 SELECT 'Gestion residuos'
             ");
@@ -629,9 +626,13 @@ class QualityControlModel extends Model implements IModel
     {
         return $this->cantidad;
     }
-    public function getTotal_mes_residuo()
+    public function getMes()
     {
-        return $this->total_mes_residuo;
+        return $this->mes;
+    }
+    public function getFecha_residuo()
+    {
+        return $this->fecha_Creacion;
     }
 
 
@@ -745,10 +746,14 @@ class QualityControlModel extends Model implements IModel
     {
         $this->cantidad = $cantidad;
     }
-    public function setTotal_mes_residuo($total_mes_residuo)
+    public function setMes($mes)
     {
-        $this->total_mes_residuo = $total_mes_residuo;
+        $this->mes = $mes;
     }
+    public function setFecha_creacion_residuo($fecha_Creacion)
+    {
+        $this->fecha_Creacion = $fecha_Creacion;
+    }   
 
 
 

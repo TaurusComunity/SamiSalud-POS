@@ -1,901 +1,429 @@
-[21-Dec-2024 19:29:10 America/Bogota] Iniciando App
-[21-Dec-2024 19:29:10 America/Bogota] ===================================================
-[21-Dec-2024 19:29:10 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:29:10 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:29:10 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:29:10 America/Bogota] Admin::construct -> Inicio del controlador Admin
-[21-Dec-2024 19:29:10 America/Bogota] Admin::render -> Cargando vista de indexAdmin
-[21-Dec-2024 19:29:10 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:29:10 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:29:10 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:29:15 America/Bogota] Iniciando App
-[21-Dec-2024 19:29:15 America/Bogota] ===================================================
-[21-Dec-2024 19:29:16 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:29:16 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:29:16 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:29:16 America/Bogota] manualCalidad::render -> Cargando vista de manual calidad
-[21-Dec-2024 19:29:19 America/Bogota] Iniciando App
-[21-Dec-2024 19:29:19 America/Bogota] ===================================================
-[21-Dec-2024 19:29:19 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:29:19 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:29:19 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:29:19 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:29:19 America/Bogota] registro temperaturas::render -> Cargando vista de registro temperaturas
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:29:19 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:29:19 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:29:19 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:29:19 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:29:19 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method QualityControlModel::getMañana() in C:\xampp\htdocs\SamiSalud-POS\views\partials\getRegistroTemperaturas.php:21
-Stack trace:
-#0 C:\xampp\htdocs\SamiSalud-POS\views\admin\registroTemperaturaAdmin.php(90): include()
-#1 C:\xampp\htdocs\SamiSalud-POS\libs\view.php(13): require('C:\\xampp\\htdocs...')
-#2 C:\xampp\htdocs\SamiSalud-POS\controllers\registroTemperatura.php(23): View->render('admin/registroT...', Array)
-#3 C:\xampp\htdocs\SamiSalud-POS\libs\app.php(52): RegistroTemperatura->render()
-#4 C:\xampp\htdocs\SamiSalud-POS\index.php(24): App->__construct()
-#5 {main}
-  thrown in C:\xampp\htdocs\SamiSalud-POS\views\partials\getRegistroTemperaturas.php on line 21
-[21-Dec-2024 19:29:38 America/Bogota] Iniciando App
-[21-Dec-2024 19:29:38 America/Bogota] ===================================================
-[21-Dec-2024 19:29:38 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:29:38 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:29:38 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:29:38 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:29:38 America/Bogota] registro temperaturas::render -> Cargando vista de registro temperaturas
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:29:38 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:29:39 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:29:39 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:29:39 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:29:51 America/Bogota] Iniciando App
-[21-Dec-2024 19:29:51 America/Bogota] ===================================================
-[21-Dec-2024 19:29:51 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:29:51 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:29:51 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:29:51 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:29:51 America/Bogota] Iniciando App
-[21-Dec-2024 19:29:51 America/Bogota] ===================================================
-[21-Dec-2024 19:29:52 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:29:52 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:29:52 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:29:52 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:29:52 America/Bogota] registro temperaturas::render -> Cargando vista de registro temperaturas
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:29:52 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:29:52 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:29:52 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:29:52 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:40:24 America/Bogota] Iniciando App
-[21-Dec-2024 19:40:24 America/Bogota] ===================================================
-[21-Dec-2024 19:40:24 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:40:24 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:40:24 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:40:24 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:40:24 America/Bogota] registro temperaturas::render -> Cargando vista de registro temperaturas
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:40:24 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:40:24 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:40:24 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:40:24 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:41:58 America/Bogota] Iniciando App
-[21-Dec-2024 19:41:58 America/Bogota] ===================================================
-[21-Dec-2024 19:41:58 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:41:58 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:41:58 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:41:58 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:41:58 America/Bogota] registro temperaturas::render -> Cargando vista de registro temperaturas
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:41:58 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:41:58 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:41:58 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:41:58 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:42:12 America/Bogota] Iniciando App
-[21-Dec-2024 19:42:12 America/Bogota] ===================================================
-[21-Dec-2024 19:42:12 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:42:12 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:42:12 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:42:12 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:42:12 America/Bogota] registro temperaturas::render -> Cargando vista de registro temperaturas
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:42:12 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:42:12 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:42:12 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:42:12 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:42:19 America/Bogota] Iniciando App
-[21-Dec-2024 19:42:19 America/Bogota] ===================================================
-[21-Dec-2024 19:42:19 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:42:19 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:42:19 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:42:19 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:42:19 America/Bogota] registro temperaturas::render -> Cargando vista de registro temperaturas
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:42:19 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:42:19 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:42:19 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:42:19 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:42:28 America/Bogota] Iniciando App
-[21-Dec-2024 19:42:28 America/Bogota] ===================================================
-[21-Dec-2024 19:42:29 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:42:29 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:42:29 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:42:29 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:42:29 America/Bogota] registro temperaturas::render -> Cargando vista de registro temperaturas
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:42:29 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:42:29 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:42:29 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:42:29 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:46:27 America/Bogota] Iniciando App
-[21-Dec-2024 19:46:27 America/Bogota] ===================================================
-[21-Dec-2024 19:46:28 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:46:28 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:46:28 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:46:28 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:46:28 America/Bogota] registro temperaturas::render -> Cargando vista de registro temperaturas
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:46:28 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:46:28 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:46:28 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:46:28 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:46:28 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type QualityControlModel as array in C:\xampp\htdocs\SamiSalud-POS\views\partials\modalRegistroTemperaturasTarde.php:36
-Stack trace:
-#0 C:\xampp\htdocs\SamiSalud-POS\views\admin\registroTemperaturaAdmin.php(92): include()
-#1 C:\xampp\htdocs\SamiSalud-POS\libs\view.php(13): require('C:\\xampp\\htdocs...')
-#2 C:\xampp\htdocs\SamiSalud-POS\controllers\registroTemperatura.php(23): View->render('admin/registroT...', Array)
-#3 C:\xampp\htdocs\SamiSalud-POS\libs\app.php(52): RegistroTemperatura->render()
-#4 C:\xampp\htdocs\SamiSalud-POS\index.php(24): App->__construct()
-#5 {main}
-  thrown in C:\xampp\htdocs\SamiSalud-POS\views\partials\modalRegistroTemperaturasTarde.php on line 36
-[21-Dec-2024 19:47:51 America/Bogota] Iniciando App
-[21-Dec-2024 19:47:51 America/Bogota] ===================================================
-[21-Dec-2024 19:47:51 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:47:51 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:47:51 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:47:51 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:47:51 America/Bogota] registro temperaturas::render -> Cargando vista de registro temperaturas
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:47:51 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:47:51 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:47:51 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:47:51 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:47:51 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type QualityControlModel as array in C:\xampp\htdocs\SamiSalud-POS\views\partials\modalRegistroTemperaturasTarde.php:36
-Stack trace:
-#0 C:\xampp\htdocs\SamiSalud-POS\views\admin\registroTemperaturaAdmin.php(92): include()
-#1 C:\xampp\htdocs\SamiSalud-POS\libs\view.php(13): require('C:\\xampp\\htdocs...')
-#2 C:\xampp\htdocs\SamiSalud-POS\controllers\registroTemperatura.php(23): View->render('admin/registroT...', Array)
-#3 C:\xampp\htdocs\SamiSalud-POS\libs\app.php(52): RegistroTemperatura->render()
-#4 C:\xampp\htdocs\SamiSalud-POS\index.php(24): App->__construct()
-#5 {main}
-  thrown in C:\xampp\htdocs\SamiSalud-POS\views\partials\modalRegistroTemperaturasTarde.php on line 36
-[21-Dec-2024 19:48:14 America/Bogota] Iniciando App
-[21-Dec-2024 19:48:14 America/Bogota] ===================================================
-[21-Dec-2024 19:48:14 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:48:14 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:48:14 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:48:14 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:48:14 America/Bogota] Iniciando App
-[21-Dec-2024 19:48:14 America/Bogota] ===================================================
-[21-Dec-2024 19:48:14 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:48:14 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:48:14 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:48:14 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:48:14 America/Bogota] registro temperaturas::render -> Cargando vista de registro temperaturas
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:48:14 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:48:15 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:48:15 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:48:15 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:48:15 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type QualityControlModel as array in C:\xampp\htdocs\SamiSalud-POS\views\partials\modalRegistroTemperaturasTarde.php:36
-Stack trace:
-#0 C:\xampp\htdocs\SamiSalud-POS\views\admin\registroTemperaturaAdmin.php(92): include()
-#1 C:\xampp\htdocs\SamiSalud-POS\libs\view.php(13): require('C:\\xampp\\htdocs...')
-#2 C:\xampp\htdocs\SamiSalud-POS\controllers\registroTemperatura.php(23): View->render('admin/registroT...', Array)
-#3 C:\xampp\htdocs\SamiSalud-POS\libs\app.php(52): RegistroTemperatura->render()
-#4 C:\xampp\htdocs\SamiSalud-POS\index.php(24): App->__construct()
-#5 {main}
-  thrown in C:\xampp\htdocs\SamiSalud-POS\views\partials\modalRegistroTemperaturasTarde.php on line 36
-[21-Dec-2024 19:50:51 America/Bogota] Iniciando App
-[21-Dec-2024 19:50:51 America/Bogota] ===================================================
-[21-Dec-2024 19:50:51 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:50:51 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:50:51 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:50:51 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:50:51 America/Bogota] registro temperaturas::render -> Cargando vista de registro temperaturas
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:50:51 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:50:52 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:50:52 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:50:52 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:50:52 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type QualityControlModel as array in C:\xampp\htdocs\SamiSalud-POS\views\partials\getRegistroTemperaturas.php:28
-Stack trace:
-#0 C:\xampp\htdocs\SamiSalud-POS\views\admin\registroTemperaturaAdmin.php(90): include()
-#1 C:\xampp\htdocs\SamiSalud-POS\libs\view.php(13): require('C:\\xampp\\htdocs...')
-#2 C:\xampp\htdocs\SamiSalud-POS\controllers\registroTemperatura.php(23): View->render('admin/registroT...', Array)
-#3 C:\xampp\htdocs\SamiSalud-POS\libs\app.php(52): RegistroTemperatura->render()
-#4 C:\xampp\htdocs\SamiSalud-POS\index.php(24): App->__construct()
-#5 {main}
-  thrown in C:\xampp\htdocs\SamiSalud-POS\views\partials\getRegistroTemperaturas.php on line 28
-[21-Dec-2024 19:50:58 America/Bogota] Iniciando App
-[21-Dec-2024 19:50:58 America/Bogota] ===================================================
-[21-Dec-2024 19:50:58 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:50:58 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:50:58 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:50:58 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:50:58 America/Bogota] registro temperaturas::render -> Cargando vista de registro temperaturas
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:50:58 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:50:58 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:50:58 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:50:58 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:50:58 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type QualityControlModel as array in C:\xampp\htdocs\SamiSalud-POS\views\partials\getRegistroTemperaturas.php:28
-Stack trace:
-#0 C:\xampp\htdocs\SamiSalud-POS\views\admin\registroTemperaturaAdmin.php(90): include()
-#1 C:\xampp\htdocs\SamiSalud-POS\libs\view.php(13): require('C:\\xampp\\htdocs...')
-#2 C:\xampp\htdocs\SamiSalud-POS\controllers\registroTemperatura.php(23): View->render('admin/registroT...', Array)
-#3 C:\xampp\htdocs\SamiSalud-POS\libs\app.php(52): RegistroTemperatura->render()
-#4 C:\xampp\htdocs\SamiSalud-POS\index.php(24): App->__construct()
-#5 {main}
-  thrown in C:\xampp\htdocs\SamiSalud-POS\views\partials\getRegistroTemperaturas.php on line 28
-[21-Dec-2024 19:51:32 America/Bogota] Iniciando App
-[21-Dec-2024 19:51:32 America/Bogota] ===================================================
-[21-Dec-2024 19:51:32 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:51:32 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:51:32 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:51:32 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:51:32 America/Bogota] registro temperaturas::render -> Cargando vista de registro temperaturas
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 450
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 453
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "total_mes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 454
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 462
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 467
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 475
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "tipo_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 478
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "cantidad" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 479
-[21-Dec-2024 19:51:32 America/Bogota] PHP Warning:  Undefined array key "total_mes_residuo" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 480
-[21-Dec-2024 19:51:32 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:51:32 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:51:32 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:51:32 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type QualityControlModel as array in C:\xampp\htdocs\SamiSalud-POS\views\partials\modalRegistroTemperaturasTarde.php:36
-Stack trace:
-#0 C:\xampp\htdocs\SamiSalud-POS\views\admin\registroTemperaturaAdmin.php(92): include()
-#1 C:\xampp\htdocs\SamiSalud-POS\libs\view.php(13): require('C:\\xampp\\htdocs...')
-#2 C:\xampp\htdocs\SamiSalud-POS\controllers\registroTemperatura.php(23): View->render('admin/registroT...', Array)
-#3 C:\xampp\htdocs\SamiSalud-POS\libs\app.php(52): RegistroTemperatura->render()
-#4 C:\xampp\htdocs\SamiSalud-POS\index.php(24): App->__construct()
-#5 {main}
-  thrown in C:\xampp\htdocs\SamiSalud-POS\views\partials\modalRegistroTemperaturasTarde.php on line 36
-[21-Dec-2024 19:51:53 America/Bogota] Iniciando App
-[21-Dec-2024 19:51:53 America/Bogota] ===================================================
-[21-Dec-2024 19:51:53 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:51:53 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:51:53 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:51:53 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:51:53 America/Bogota] registro temperaturas::render -> Cargando vista de registro temperaturas
-[21-Dec-2024 19:51:53 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:51:53 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:51:53 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:52:44 America/Bogota] Iniciando App
-[21-Dec-2024 19:52:44 America/Bogota] ===================================================
-[21-Dec-2024 19:52:44 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:52:44 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:52:44 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:52:44 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:52:44 America/Bogota] registro temperaturas::render -> Cargando vista de registro temperaturas
-[21-Dec-2024 19:52:45 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:52:45 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:52:45 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:52:58 America/Bogota] Iniciando App
-[21-Dec-2024 19:52:58 America/Bogota] ===================================================
-[21-Dec-2024 19:52:59 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:52:59 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:52:59 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:52:59 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:52:59 America/Bogota] registro temperaturas::render -> Cargando vista de registro temperaturas
-[21-Dec-2024 19:52:59 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:52:59 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:52:59 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:53:32 America/Bogota] Iniciando App
-[21-Dec-2024 19:53:32 America/Bogota] ===================================================
-[21-Dec-2024 19:53:33 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:53:33 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:53:33 America/Bogota] sessionController::getUserSessionData(): local-2
-[21-Dec-2024 19:53:33 America/Bogota] Admin::construct -> Inicio del controlador registro temperaturas
-[21-Dec-2024 19:53:33 America/Bogota] registro temperaturas::render -> Cargando vista de registro temperaturas
-[21-Dec-2024 19:53:33 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
-[21-Dec-2024 19:53:33 America/Bogota] sessionController::getUserSessionData(): rol-2
-[21-Dec-2024 19:53:33 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:31:06 America/Bogota] Iniciando App
+[23-Dec-2024 08:31:06 America/Bogota] ===================================================
+[23-Dec-2024 08:31:06 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:31:06 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:31:06 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:31:06 America/Bogota] Admin::construct -> Inicio del controlador Gestion residuos
+[23-Dec-2024 08:31:06 America/Bogota] Iniciando App
+[23-Dec-2024 08:31:06 America/Bogota] ===================================================
+[23-Dec-2024 08:31:06 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:31:06 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:31:06 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:31:06 America/Bogota] Admin::construct -> Inicio del controlador Gestion residuos
+[23-Dec-2024 08:31:06 America/Bogota] Gestion residuos::render -> Cargando vista de Gestion residuos
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 445
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 452
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 456
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 463
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "temperatura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 469
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "manana" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 470
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "tarde" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 471
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 474
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 445
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 452
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 456
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 463
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "temperatura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 469
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "manana" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 470
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "tarde" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 471
+[23-Dec-2024 08:31:06 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 474
+[23-Dec-2024 08:31:07 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:31:07 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:31:07 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:32:44 America/Bogota] Iniciando App
+[23-Dec-2024 08:32:44 America/Bogota] ===================================================
+[23-Dec-2024 08:32:44 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:32:44 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:32:44 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:32:44 America/Bogota] Admin::construct -> Inicio del controlador Gestion residuos
+[23-Dec-2024 08:32:44 America/Bogota] Gestion residuos::render -> Cargando vista de Gestion residuos
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 445
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 452
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 456
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 463
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "temperatura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 469
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "manana" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 470
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "tarde" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 471
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 474
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 445
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 452
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 456
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 463
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "temperatura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 469
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "manana" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 470
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "tarde" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 471
+[23-Dec-2024 08:32:44 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 474
+[23-Dec-2024 08:32:44 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:32:44 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:32:44 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:32:52 America/Bogota] Iniciando App
+[23-Dec-2024 08:32:52 America/Bogota] ===================================================
+[23-Dec-2024 08:32:52 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:32:52 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:32:52 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:32:52 America/Bogota] Admin::construct -> Inicio del controlador Gestion residuos
+[23-Dec-2024 08:32:52 America/Bogota] Iniciando App
+[23-Dec-2024 08:32:52 America/Bogota] ===================================================
+[23-Dec-2024 08:32:52 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:32:52 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:32:52 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:32:52 America/Bogota] Admin::construct -> Inicio del controlador Gestion residuos
+[23-Dec-2024 08:32:52 America/Bogota] Gestion residuos::render -> Cargando vista de Gestion residuos
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 445
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 452
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 456
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 463
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "temperatura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 469
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "manana" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 470
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "tarde" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 471
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 474
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 445
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 452
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 456
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 463
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "temperatura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 469
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "manana" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 470
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "tarde" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 471
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 474
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 445
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 452
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 456
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 463
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "temperatura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 469
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "manana" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 470
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "tarde" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 471
+[23-Dec-2024 08:32:52 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 474
+[23-Dec-2024 08:32:52 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:32:52 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:32:52 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:34:45 America/Bogota] Iniciando App
+[23-Dec-2024 08:34:45 America/Bogota] ===================================================
+[23-Dec-2024 08:34:45 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:34:45 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:34:45 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:34:45 America/Bogota] Admin::construct -> Inicio del controlador Gestion residuos
+[23-Dec-2024 08:34:45 America/Bogota] Gestion residuos::render -> Cargando vista de Gestion residuos
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 445
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 452
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 456
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 463
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "temperatura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 469
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "manana" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 470
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "tarde" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 471
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 474
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 445
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 452
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 456
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 463
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "temperatura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 469
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "manana" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 470
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "tarde" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 471
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 474
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 445
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 452
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 456
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 463
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "temperatura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 469
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "manana" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 470
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "tarde" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 471
+[23-Dec-2024 08:34:45 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 474
+[23-Dec-2024 08:34:45 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:34:45 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:34:45 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:36:17 America/Bogota] Iniciando App
+[23-Dec-2024 08:36:17 America/Bogota] ===================================================
+[23-Dec-2024 08:36:18 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:36:18 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:36:18 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:36:18 America/Bogota] Admin::construct -> Inicio del controlador Gestion residuos
+[23-Dec-2024 08:36:18 America/Bogota] Gestion residuos::render -> Cargando vista de Gestion residuos
+[23-Dec-2024 08:36:18 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:36:18 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:36:18 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:36:45 America/Bogota] Iniciando App
+[23-Dec-2024 08:36:45 America/Bogota] ===================================================
+[23-Dec-2024 08:36:45 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:36:45 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:36:45 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:36:45 America/Bogota] Admin::construct -> Inicio del controlador Gestion residuos
+[23-Dec-2024 08:36:45 America/Bogota] Gestion residuos::render -> Cargando vista de Gestion residuos
+[23-Dec-2024 08:36:46 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:36:46 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:36:46 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:36:58 America/Bogota] Iniciando App
+[23-Dec-2024 08:36:58 America/Bogota] ===================================================
+[23-Dec-2024 08:36:58 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:36:58 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:36:58 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:36:58 America/Bogota] Admin::construct -> Inicio del controlador Gestion residuos
+[23-Dec-2024 08:36:58 America/Bogota] Iniciando App
+[23-Dec-2024 08:36:58 America/Bogota] ===================================================
+[23-Dec-2024 08:36:59 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:36:59 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:36:59 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:36:59 America/Bogota] Admin::construct -> Inicio del controlador Gestion residuos
+[23-Dec-2024 08:36:59 America/Bogota] Gestion residuos::render -> Cargando vista de Gestion residuos
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 445
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 452
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 456
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 463
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "temperatura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 469
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "manana" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 470
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "tarde" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 471
+[23-Dec-2024 08:36:59 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 474
+[23-Dec-2024 08:36:59 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:36:59 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:36:59 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:40:32 America/Bogota] Iniciando App
+[23-Dec-2024 08:40:32 America/Bogota] ===================================================
+[23-Dec-2024 08:40:32 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:40:32 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:40:32 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:40:32 America/Bogota] Admin::construct -> Inicio del controlador Gestion residuos
+[23-Dec-2024 08:40:32 America/Bogota] Gestion residuos::render -> Cargando vista de Gestion residuos
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 445
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 452
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 456
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 463
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "temperatura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 469
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "manana" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 470
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "tarde" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 471
+[23-Dec-2024 08:40:32 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 474
+[23-Dec-2024 08:40:33 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:40:33 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:40:33 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:40:40 America/Bogota] Iniciando App
+[23-Dec-2024 08:40:40 America/Bogota] ===================================================
+[23-Dec-2024 08:40:40 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:40:40 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:40:40 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:40:40 America/Bogota] Admin::construct -> Inicio del controlador Gestion residuos
+[23-Dec-2024 08:40:40 America/Bogota] Iniciando App
+[23-Dec-2024 08:40:40 America/Bogota] ===================================================
+[23-Dec-2024 08:40:40 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:40:40 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:40:40 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:40:40 America/Bogota] Admin::construct -> Inicio del controlador Gestion residuos
+[23-Dec-2024 08:40:40 America/Bogota] Gestion residuos::render -> Cargando vista de Gestion residuos
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 445
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 452
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 456
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 463
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "temperatura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 469
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "manana" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 470
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "tarde" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 471
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 474
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "numero_factura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 445
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "proveedor" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 446
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "total_producto" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 447
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "total_faltantes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 448
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "total_devolucion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 449
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "cantidad_ingresada" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 452
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "banio" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 456
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "inyectologia" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 457
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 458
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 459
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 460
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 461
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "techos_paredes" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 463
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "pisos_dispensacion" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 464
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "estantes_vitrinas_cajoneras" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 465
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "canecas" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 466
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "temperatura" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 469
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "manana" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 470
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "tarde" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 471
+[23-Dec-2024 08:40:40 America/Bogota] PHP Warning:  Undefined array key "archivo_pdf" in C:\xampp\htdocs\SamiSalud-POS\models\qualityControlModel.php on line 474
+[23-Dec-2024 08:40:40 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:40:40 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:40:40 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:51:35 America/Bogota] Iniciando App
+[23-Dec-2024 08:51:35 America/Bogota] ===================================================
+[23-Dec-2024 08:51:36 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:51:36 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:51:36 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:51:36 America/Bogota] manualCalidad::render -> Cargando vista de manual calidad
+[23-Dec-2024 08:51:40 America/Bogota] Iniciando App
+[23-Dec-2024 08:51:40 America/Bogota] ===================================================
+[23-Dec-2024 08:51:40 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:51:40 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:51:40 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:51:40 America/Bogota] manualCalidad::render -> Cargando vista de manual calidad
+[23-Dec-2024 08:52:01 America/Bogota] Iniciando App
+[23-Dec-2024 08:52:01 America/Bogota] ===================================================
+[23-Dec-2024 08:52:01 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:52:01 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:52:01 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:52:01 America/Bogota] manualCalidad::render -> Cargando vista de manual calidad
+[23-Dec-2024 08:52:04 America/Bogota] Iniciando App
+[23-Dec-2024 08:52:04 America/Bogota] ===================================================
+[23-Dec-2024 08:52:04 America/Bogota] libs/app.php:: Error: El controlador facturaspdf no existe.
+[23-Dec-2024 08:52:04 America/Bogota] ===================================================
+[23-Dec-2024 08:52:04 America/Bogota] controller/errores -> Inicio de errores
+[23-Dec-2024 08:52:07 America/Bogota] Iniciando App
+[23-Dec-2024 08:52:07 America/Bogota] ===================================================
+[23-Dec-2024 08:52:07 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:52:07 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:52:07 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:52:07 America/Bogota] manualCalidad::render -> Cargando vista de manual calidad
+[23-Dec-2024 08:53:42 America/Bogota] Iniciando App
+[23-Dec-2024 08:53:42 America/Bogota] ===================================================
+[23-Dec-2024 08:53:43 America/Bogota] sessionController::getUserSessionData(): usuario-Oficial@gmail.com
+[23-Dec-2024 08:53:43 America/Bogota] sessionController::getUserSessionData(): rol-2
+[23-Dec-2024 08:53:43 America/Bogota] sessionController::getUserSessionData(): local-2
+[23-Dec-2024 08:53:43 America/Bogota] manualCalidad::render -> Cargando vista de manual calidad

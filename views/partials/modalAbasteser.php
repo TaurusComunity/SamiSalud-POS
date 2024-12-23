@@ -107,17 +107,18 @@
                         </div>
 
                         <div
-    class="custom-select flex justify-between w-full bg-transparent outline-none px-4 py-3 text-base rounded-xl bg-white border border-[#4070f4] focus:shadow-md">
-    <select name="id_categoria" class="w-full" required>
-        <option value="">Selecciona la categoría</option>
-        <?php foreach ($this->data['categories'] as $category) { ?>
-            <option value="<?php echo $category->getId(); ?>" <?php echo ($category->getId() == $product['id_categoria']) ? 'selected' : ''; ?>>
-                <?php echo $category->getNombre(); ?>
-            </option>
-        <?php } ?>
-    </select>
-    <div class="select-arrow"></div>
-</div>
+                            class="custom-select flex justify-between w-full bg-transparent outline-none px-4 py-3 text-base rounded-xl bg-white border border-[#4070f4] focus:shadow-md">
+                            <select name="id_categoria" class="w-full" required>
+                                <option value="">Selecciona la categoría</option>
+                                <?php foreach ($this->data['categories'] as $category) { ?>
+                                <option value="<?php echo $category->getId(); ?>"
+                                    <?php echo ($category->getId() == $product['id_categoria']) ? 'selected' : ''; ?>>
+                                    <?php echo $category->getNombre(); ?>
+                                </option>
+                                <?php } ?>
+                            </select>
+                            <div class="select-arrow"></div>
+                        </div>
 
 
 
